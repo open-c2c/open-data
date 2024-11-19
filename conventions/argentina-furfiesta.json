@@ -2,7 +2,7 @@
   "$id": "eka03joszfput00b3go3rvnq",
   "name": "Argentina FurFiesta",
   "slug": "argentina-furfiesta",
-  "popularKnown": [],
+  "popularKnown": ["ArFF"],
   "officialLogo": "./logos/argentina-furfiesta.png",
   "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
   "moreInformation": [],
