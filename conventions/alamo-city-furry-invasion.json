@@ -2,7 +2,7 @@
   "$id": "mb71gcwnnvabg2n0mwl9tdm8",
   "name": "Alamo City Furry Invasion",
   "slug": "alamo-city-furry-invasion",
-  "popularKnown": [],
+  "popularKnown": ["ACFI"],
   "officialLogo": "./logos/alamo-city-furry-invasion.png",
   "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
   "moreInformation": [],

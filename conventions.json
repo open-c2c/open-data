@@ -102,12 +102,6 @@
     "country": "AUS"
   },
   {
-    "$id": "n883zc4jc0uk8r3feaam9jfi",
-    "$ref": "./conventions/austin-furry-burlesque.json",
-    "name": "Austin Furry Burlesque",
-    "country": "USA"
-  },
-  {
     "$id": "mo1okrovb6gncquvxgtipni2",
     "$ref": "./conventions/babyfur-con.json",
     "name": "Babyfur Con",

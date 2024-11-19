@@ -2,7 +2,7 @@
   "$id": "cv0fn5do5wv3e6a8tor73qka",
   "name": "Blue Ridge Furfare",
   "slug": "blue-ridge-furfare",
-  "popularKnown": [],
+  "popularKnown": ["BRFF"],
   "officialLogo": "./logos/blue-ridge-furfare.png",
   "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
   "moreInformation": [],

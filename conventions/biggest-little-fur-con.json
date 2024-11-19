@@ -2,7 +2,7 @@
   "$id": "a9tcxfjar2o185rg4460lm4s",
   "name": "Biggest Little Fur Con",
   "slug": "biggest-little-fur-con",
-  "popularKnown": [],
+  "popularKnown": ["BLFC"],
   "officialLogo": "./logos/biggest-little-fur-con.png",
   "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
   "moreInformation": [],
