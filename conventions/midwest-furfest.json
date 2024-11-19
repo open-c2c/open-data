@@ -2,7 +2,7 @@
   "$id": "etfr1xoqcs3jfqkupf5nageb",
   "name": "Midwest FurFest",
   "slug": "midwest-furfest",
-  "popularKnown": [],
+  "popularKnown": ["MFF"],
   "officialLogo": "./logos/midwest-furfest.png",
   "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
   "moreInformation": [],
