@@ -1,0 +1,16 @@
+{
+  "$id": "ho28ws364nuada1zlqnhznop",
+  "name": "Kharcon",
+  "slug": "kharcon",
+  "popularKnown": [],
+  "officialLogo": "./logos/kharcon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://kharcon.in.ua",
+  "country": "UKR",
+  "address": "Artilna St, 39, Kharkiv, Kharkivs'ka oblast, 61000, Ukraine",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "rk4nudto2abkhxuv2p184das",
+  "name": "DenFur",
+  "slug": "denfur",
+  "popularKnown": [],
+  "officialLogo": "./logos/denfur.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://denfur.org",
+  "country": "USA",
+  "address": "Sheraton Denver Downtown, 1550 Court Pl, Denver, CO 8020, USA",
+  "telephone": "+1 (303) 893-3333",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

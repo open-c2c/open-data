@@ -1,0 +1,16 @@
+{
+  "$id": "td24z9kc6whomne0345bh742",
+  "name": "Furry Summer Gathering",
+  "slug": "furry-summer-gathering",
+  "popularKnown": [],
+  "officialLogo": "./logos/furry-summer-gathering.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://shouxiaji.cn",
+  "country": "CHN",
+  "address": "Shanghai Expo Centre, 1500 Shibo Ave, Pudong Xinqu, Shanghai Shi, China",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

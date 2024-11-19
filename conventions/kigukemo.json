@@ -1,0 +1,16 @@
+{
+  "$id": "fslx08tlte032fbhvb1fpj64",
+  "name": "Kigukemo",
+  "slug": "kigukemo",
+  "popularKnown": [],
+  "officialLogo": "./logos/kigukemo.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://kigukemo.jp",
+  "country": "JPN",
+  "address": "Nagoya Trade & Industry Center, 2-6-3 Fukiage, Chikusa Ward, Nagoya, Aichi, Japan",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

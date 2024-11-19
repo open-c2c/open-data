@@ -1,0 +1,16 @@
+{
+  "$id": "hdiqtw2lk92xb7l4gh98d4bs",
+  "name": "PAWAI",
+  "slug": "pawai",
+  "popularKnown": [],
+  "officialLogo": "./logos/pawai.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://pawai.id",
+  "country": "IDN",
+  "address": "YELLO Manggarai Jakarta, Jl. Minangkabau No. 9, RT 6/RW 8, Ps. Manggis, Kecamatan Setiabuadi, Kota Jakarta Selatan, Jakarta 12970, Java, Indonesia",
+  "telephone": "021 3042 8888",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

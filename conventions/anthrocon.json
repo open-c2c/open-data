@@ -1,0 +1,16 @@
+{
+  "$id": "lztoa6plp87arpolurdmwd8x",
+  "name": "Anthrocon",
+  "slug": "anthrocon",
+  "popularKnown": [],
+  "officialLogo": "./logos/anthrocon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://anthrocon.org",
+  "country": "USA",
+  "address": "DLCC Pittsburgh, 1000 Fort Duquesne Blvd, Pittsburgh, Pennsylvania 15222, USA",
+  "telephone": "+1 (412) 281-3700",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

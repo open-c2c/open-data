@@ -1,0 +1,16 @@
+{
+  "$id": "wbaq5yl3e84usnxxnjmhejgj",
+  "name": "Furizon",
+  "slug": "furizon",
+  "popularKnown": [],
+  "officialLogo": "./logos/furizon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furizon.net",
+  "country": "ITA",
+  "address": "Hotel Sole del Baldo, Via de la Pizzagrola 1, 38060 Brentonico, San Valentino, Trento, Italy",
+  "telephone": null,
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "sx079sty3bhohte2sy61i4ew",
+  "name": "Rongshouyu (绒兽域)",
+  "slug": "rongshouyu",
+  "popularKnown": [],
+  "officialLogo": "./logos/rongshouyu.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://show.bilibili.com/platform/detail.html?id=80424",
+  "country": "CHN",
+  "address": "Jiedong Baihe Banquet Hall, Jieyang, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

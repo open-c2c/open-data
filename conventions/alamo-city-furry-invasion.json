@@ -1,0 +1,16 @@
+{
+  "$id": "mb71gcwnnvabg2n0mwl9tdm8",
+  "name": "Alamo City Furry Invasion",
+  "slug": "alamo-city-furry-invasion",
+  "popularKnown": [],
+  "officialLogo": "./logos/alamo-city-furry-invasion.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furryinvasion.org",
+  "country": "USA",
+  "address": "Marriott San Antonio Airport,  111 E Pecan St, San Antonio, TX 78205, USA",
+  "telephone": "+1 (210) 354-2800",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

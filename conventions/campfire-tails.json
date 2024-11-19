@@ -1,0 +1,16 @@
+{
+  "$id": "b5wc7cvb34kiryllrbxg105v",
+  "name": "Campfire Tails",
+  "slug": "campfire-tails",
+  "popularKnown": [],
+  "officialLogo": "./logos/campfire-tails.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://campfiretails.org",
+  "country": "USA",
+  "address": "Ogden Group Camp, Paulina Lake, La Pine, OR, USA",
+  "telephone": "",
+  "minimumAge": 21,
+  "cadence": "Yearly",
+  "isActive": true
+}

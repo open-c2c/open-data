@@ -1,0 +1,16 @@
+{
+  "$id": "i2jixbe3o47hoxfxq9b8e6j5",
+  "name": "Golden State Fur Con",
+  "slug": "golden-state-fur-con",
+  "popularKnown": [],
+  "officialLogo": "./logos/golden-state-fur-con.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://gsfurcon.com",
+  "country": "USA",
+  "address": "Hilton Los Angeles Airport, 5711 W Century Blvd, Los Angeles, CA 90045, USA",
+  "telephone": "+1 (310) 410-4000",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

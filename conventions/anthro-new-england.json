@@ -1,0 +1,16 @@
+{
+  "$id": "vrtyz19ncqtdaxsgfbt7y3dl",
+  "name": "Anthro New England",
+  "slug": "anthro-new-england",
+  "popularKnown": [],
+  "officialLogo": "./logos/anthro-new-england.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://anthronewengland.com",
+  "country": "USA",
+  "address": "Boston Westin Seaport District, 425 Summer Street,, Boston, MA 02210, USA",
+  "telephone": "+1 (617) 426-2000",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

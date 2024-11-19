@@ -1,0 +1,16 @@
+{
+  "$id": "igtv3xbpvvtgkt2kqab3vtyq",
+  "name": "Werecamp",
+  "slug": "werecamp",
+  "popularKnown": [],
+  "officialLogo": "./logos/werecamp.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://www.mnfurs.org/MNFurs_Talk/event/werecamp-2019",
+  "country": "USA",
+  "address": "Whitewater State Park Group Center, MN-74, St Charles, MN 55972, USA",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

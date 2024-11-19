@@ -1,0 +1,16 @@
+{
+  "$id": "etfr1xoqcs3jfqkupf5nageb",
+  "name": "Midwest FurFest",
+  "slug": "midwest-furfest",
+  "popularKnown": [],
+  "officialLogo": "./logos/midwest-furfest.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furfest.org",
+  "country": "USA",
+  "address": "Donald E. Stephens Conv. Center, 5555 N River Rd., Rosemont, Illinois 60018, USA",
+  "telephone": "+1 (847) 692-2220",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

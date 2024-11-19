@@ -1,0 +1,16 @@
+{
+  "$id": "a635zkx0puoi3jl5eh7nt3g9",
+  "name": "West Aussie Fur Frenzy",
+  "slug": "west-aussie-fur-frenzy",
+  "popularKnown": [],
+  "officialLogo": "./logos/west-aussie-fur-frenzy.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://waff.net.au",
+  "country": "AUS",
+  "address": "Travelodge Perth, 417 Hay St, Perth WA 6000, Australia",
+  "telephone": "+61 8 9238 1888",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

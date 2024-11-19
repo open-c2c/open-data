@@ -1,0 +1,16 @@
+{
+  "$id": "llu6vt50dc2zb0q39vc4v28f",
+  "name": "FurCan",
+  "slug": "furcan",
+  "popularKnown": [],
+  "officialLogo": "./logos/furcan.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furcan.org",
+  "country": "MEX",
+  "address": "Option (changing in 2020), Instituto poblano de la juventud, 72000 Puebla City, Puebla, Mexico",
+  "telephone": "+52 222 250 63 91",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

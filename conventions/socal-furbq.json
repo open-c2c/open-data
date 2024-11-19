@@ -1,0 +1,16 @@
+{
+  "$id": "ki32wvfkbl5aqakys2oe2107",
+  "name": "SoCal FurBQ",
+  "slug": "socal-furbq",
+  "popularKnown": [],
+  "officialLogo": "./logos/socal-furbq.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://twitter.com/SoCalFurBQ",
+  "country": "USA",
+  "address": "Irvine Regional Pk, 1 Irvine Park Rd, Orange, CA 92869, USA",
+  "telephone": "+1 (714) 973-6835",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

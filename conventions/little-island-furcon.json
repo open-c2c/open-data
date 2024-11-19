@@ -1,0 +1,19 @@
+{
+  "$id": "b3yn4d0wlj18b937qr0foczq",
+  "name": "Little Island Furcon",
+  "slug": "little-island-furcon",
+  "popularKnown": [],
+  "officialLogo": "./logos/little-island-furcon.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://littleislandfur.com",
+  "country": "SGP",
+  "address": "Genting Hotel Jurong, 2 Town Hall Link, 608516, Singapore",
+  "telephone": "",
+  "minimumAge": 15,
+  "cadence": "Yearly",
+  "isActive": true
+}

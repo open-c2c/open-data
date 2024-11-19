@@ -1,0 +1,16 @@
+{
+  "$id": "vqa47o861xyxym1d109mt3xe",
+  "name": "Zillercon",
+  "slug": "zillercon",
+  "popularKnown": [],
+  "officialLogo": "./logos/zillercon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://twitter.com/hashtag/zillercon?f=tweets",
+  "country": "AUT",
+  "address": "Lermoos, Österreich, Austria",
+  "telephone": "",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

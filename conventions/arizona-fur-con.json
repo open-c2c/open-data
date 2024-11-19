@@ -1,0 +1,16 @@
+{
+  "$id": "pp78qte6dfckec4eg9gtml79",
+  "name": "Arizona Fur Con",
+  "slug": "arizona-fur-con",
+  "popularKnown": [],
+  "officialLogo": "./logos/arizona-fur-con.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://arizonafurcon.com",
+  "country": "USA",
+  "address": "Delta Hotels Phoenix Mesa, 200 North Centennial Way, Mesa, AZ 85201, USA",
+  "telephone": "+1 (623) 232-0580",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

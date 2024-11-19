@@ -1,0 +1,16 @@
+{
+  "$id": "c9s0wo9bikn5pjq296n0q2rq",
+  "name": "Hunan Furry Meeting (湘兽会)",
+  "slug": "hunan-furry-meeting",
+  "popularKnown": [],
+  "officialLogo": "./logos/hunan-furry-meeting.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://space.bilibili.com/2050851682",
+  "country": "CHN",
+  "address": "Huayi Brother Film Town, Yuelu District, Changsha, Hunan, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

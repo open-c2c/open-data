@@ -1,0 +1,16 @@
+{
+  "$id": "f8v5c0qoty7eod0cva8o4vxe",
+  "name": "South & North Fursuit Union",
+  "slug": "south-and-north-fursuit-union",
+  "popularKnown": [],
+  "officialLogo": "./logos/south-and-north-fursuit-union.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://space.bilibili.com/695976207",
+  "country": "CHN",
+  "address": "Mage Manor, Saita Rd, Xiqing District, Tianjin, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

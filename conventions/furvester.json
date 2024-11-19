@@ -1,0 +1,16 @@
+{
+  "$id": "w6mqobibsappxl9hl18yyo7j",
+  "name": "Furvester",
+  "slug": "furvester",
+  "popularKnown": [],
+  "officialLogo": "./logos/furvester.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furvester.org",
+  "country": "DEU",
+  "address": "Hotel Fortuna Reutlingen/Tübingen, Carl-Zeiss-Straße 75, 72770 Reutlingen, Germany",
+  "telephone": "+49 7121 5840",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "deivt2ydvmcept6binshe7gq",
+  "name": "Western PA Furry Weekend",
+  "slug": "western-pa-furry-weekend",
+  "popularKnown": [],
+  "officialLogo": "./logos/western-pa-furry-weekend.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://wpafw.org",
+  "country": "USA",
+  "address": "Northpark Lodge, N Ridge Dr, Allison Park, PA 15101, USA",
+  "telephone": "+1 (724) 327-0338",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

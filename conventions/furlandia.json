@@ -1,0 +1,16 @@
+{
+  "$id": "l6q6othz33tb7wppa2p2d1ou",
+  "name": "Furlandia",
+  "slug": "furlandia",
+  "popularKnown": [],
+  "officialLogo": "./logos/furlandia.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furlandia.org",
+  "country": "USA",
+  "address": "Sheraton PDX Airport , 8235 NE Airport Way, Portland, Oregon 97220, USA",
+  "telephone": "+1 (503) 281-2500",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

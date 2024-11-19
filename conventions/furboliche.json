@@ -1,0 +1,16 @@
+{
+  "$id": "osm0so4suht7tyu4ctv6q3ru",
+  "name": "Furboliche",
+  "slug": "furboliche",
+  "popularKnown": [],
+  "officialLogo": "./logos/furboliche.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furboliche.com.br",
+  "country": "BRA",
+  "address": "Bomboliche UP Trampoline Park, R. García Lorca, 301, São Bernardo do Campo, SP, Brazil",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

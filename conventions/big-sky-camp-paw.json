@@ -1,0 +1,16 @@
+{
+  "$id": "gr6083nf40wvfmnrn46fld82",
+  "name": "Big Sky Camp Paw",
+  "slug": "big-sky-camp-paw",
+  "popularKnown": [],
+  "officialLogo": "./logos/big-sky-camp-paw.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://camppaw.org",
+  "country": "USA",
+  "address": "Larry Creek Group Campground, Florence, MT 59833, USA",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "r91bz1048zzgiuvg4099nfvk",
+  "name": "HOwOlidays",
+  "slug": "howolidays",
+  "popularKnown": [],
+  "officialLogo": "./logos/howolidays.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://furrypinas.com/en/HOwOlidays",
+  "country": "PHL",
+  "address": "Cowboy Grill, 11910 A. Mabini St, Ermita, 1000 Metro Manila, Philippines",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "t2du02w7frgvrlvdbcgbodci",
+  "name": "Further South",
+  "slug": "further-south",
+  "popularKnown": [],
+  "officialLogo": "./logos/further-south.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furthersouth.uk/venue",
+  "country": "GBR",
+  "address": "Holiday Inn Portsmouth, Pembroke Rd, Portsmouth, Hampshire, PO1 2TA, United Kingdom",
+  "telephone": "+44 333 320 9345",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

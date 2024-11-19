@@ -1,0 +1,16 @@
+{
+  "$id": "fq7an43lj8lkg77iykokp79t",
+  "name": "A-FurCon (御绒聚)",
+  "slug": "a-furcon",
+  "popularKnown": [],
+  "officialLogo": "./logos/a-furcon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://space.bilibili.com/1018724984",
+  "country": "CHN",
+  "address": "Wyndham Plaza, 116 Taishan Blvd East Section, Yubei District, Chongqing, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

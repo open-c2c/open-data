@@ -1,0 +1,16 @@
+{
+  "$id": "gl67l3h38b4e6p5p1hc00zdi",
+  "name": "Furpocalypse",
+  "slug": "furpocalypse",
+  "popularKnown": [],
+  "officialLogo": "./logos/furpocalypse.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furpocalypse.org",
+  "country": "USA",
+  "address": "The Armon Hotel & Conference, 2701 Summer St, Stamford, CT 06905, USA",
+  "telephone": "+1 203-359-1300",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

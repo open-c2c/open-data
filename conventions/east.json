@@ -1,0 +1,16 @@
+{
+  "$id": "uf695d92ohg1lmrqnzc0j5xq",
+  "name": "EAST",
+  "slug": "east",
+  "popularKnown": [],
+  "officialLogo": "./logos/east.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://east.wtf",
+  "country": "DEU",
+  "address": "Ringberg Hotel, Ringberg 10, 98527 Suhl, Germany",
+  "telephone": "+493681 3890",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

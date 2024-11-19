@@ -1,0 +1,19 @@
+{
+  "$id": "kdajm6pitmkv4c8aoagprab9",
+  "name": "StarFes (星缘节)",
+  "slug": "starfes",
+  "popularKnown": [],
+  "officialLogo": "./logos/starfes.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://space.bilibili.com/649278881/dynamic",
+  "country": "CHN",
+  "address": "Jingkai Garden Hilton Hotel, Changchun, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

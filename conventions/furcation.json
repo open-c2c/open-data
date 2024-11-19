@@ -1,0 +1,16 @@
+{
+  "$id": "dhnmn99bwdv0mvbsq2i4frxm",
+  "name": "Furcation",
+  "slug": "furcation",
+  "popularKnown": [],
+  "officialLogo": "./logos/furcation.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furcation.org.uk",
+  "country": "GBR",
+  "address": "Sandford Holiday Park, Willow Cres, Holton Heath, Poole  BH16 6JZ, United Kingdom",
+  "telephone": "+44 844 318 3050",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "stzdovlm0xlfkmu4iueo42n3",
+  "name": "The Chase of Beasts",
+  "slug": "the-chase-of-beasts",
+  "popularKnown": [],
+  "officialLogo": "./logos/the-chase-of-beasts.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://chase.pet",
+  "country": "USA",
+  "address": "Whispering Pines Resort, 17170 Hwy 175, Middletown, CA 95461, USA",
+  "telephone": "+1 707-928-5227",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

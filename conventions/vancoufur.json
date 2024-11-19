@@ -1,0 +1,16 @@
+{
+  "$id": "q573e09juqevt9lir220cim0",
+  "name": "VancouFur",
+  "slug": "vancoufur",
+  "popularKnown": [],
+  "officialLogo": "./logos/vancoufur.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://vancoufur.org",
+  "country": "CAN",
+  "address": "Sheraton Vancouver Guilford, 15269 104 Ave, Surrey, British Columbia, V3R 1N5, Canada",
+  "telephone": "+1 (604) 582-9288",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

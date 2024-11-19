@@ -1,0 +1,16 @@
+{
+  "$id": "gfaf60det5p7pucj99dcqymw",
+  "name": "Awoostria",
+  "slug": "awoostria",
+  "popularKnown": [],
+  "officialLogo": "./logos/awoostria.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://awoostria.at/",
+  "country": "AUT",
+  "address": "ARCOTEL Wimberger Wien, Neubaugürtel 34-36, 1070 Wien, Austria",
+  "telephone": "+43 152 1650",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

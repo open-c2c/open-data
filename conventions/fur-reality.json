@@ -1,0 +1,16 @@
+{
+  "$id": "d4ab2pd2eu4rdckcydftpgo5",
+  "name": "Fur Reality",
+  "slug": "fur-reality",
+  "popularKnown": [],
+  "officialLogo": "./logos/fur-reality.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furreality.org",
+  "country": "USA",
+  "address": "Holiday Inn Eastgate, 4501 Eastgate Blvd., Cincinnati, Ohio 45245, USA",
+  "telephone": "+1 (513) 752-4400",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

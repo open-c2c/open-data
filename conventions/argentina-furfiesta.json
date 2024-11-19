@@ -1,0 +1,16 @@
+{
+  "$id": "eka03joszfput00b3go3rvnq",
+  "name": "Argentina FurFiesta",
+  "slug": "argentina-furfiesta",
+  "popularKnown": [],
+  "officialLogo": "./logos/argentina-furfiesta.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furfiesta.com",
+  "country": "ARG",
+  "address": "Castelar Hotel, Av. de Mayo 1152, CABA, Buenos Aires, Argentina",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

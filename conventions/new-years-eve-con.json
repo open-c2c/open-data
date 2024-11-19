@@ -1,0 +1,16 @@
+{
+  "$id": "g4n07acgcec1ptzumsa7w24c",
+  "name": "New Year's Eve Con",
+  "slug": "new-years-eve-con",
+  "popularKnown": [],
+  "officialLogo": "./logos/new-years-eve-con.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://newyearsevecon.square.site",
+  "country": "USA",
+  "address": "Courtyard by Marriott Chicago Elmhurst/Oak Brook area, 370 IL 83, Elmhurst, IL 60126, USA",
+  "telephone": "+1 (630) 941-9444",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

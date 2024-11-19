@@ -1,0 +1,16 @@
+{
+  "$id": "p0k6st3849cwukt5weid3of1",
+  "name": "FurcoNZ Hotel",
+  "slug": "furconz-hotel",
+  "popularKnown": [],
+  "officialLogo": "./logos/furconz-hotel.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furconz.org.nz",
+  "country": "NZL",
+  "address": "Holiday Inn, Auckland Airport, 2 Ascot Road, Auckland, New Zealand",
+  "telephone": null,
+  "minimumAge": "18",
+  "cadence": "Yearly",
+  "isActive": true
+}

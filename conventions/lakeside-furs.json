@@ -1,0 +1,16 @@
+{
+  "$id": "jtrwg1dt26o7ccoh7ihjeetf",
+  "name": "Lakeside Furs",
+  "slug": "lakeside-furs",
+  "popularKnown": [],
+  "officialLogo": "./logos/lakeside-furs.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://lakesidefurs.at",
+  "country": "AUT",
+  "address": "Chalet Bergerblick, Hinterwaldberg 39, 5742 Wald im Pinzgau, Austria",
+  "telephone": "+31 6 53933594",
+  "minimumAge": 16,
+  "cadence": "Yearly",
+  "isActive": true
+}

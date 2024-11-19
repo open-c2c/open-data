@@ -1,0 +1,16 @@
+{
+  "$id": "njcy19gqwm4tbb5l8f9n0o9o",
+  "name": "South Afrifur",
+  "slug": "south-afrifur",
+  "popularKnown": [],
+  "officialLogo": "./logos/south-afrifur.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://south-afrifur.co.za",
+  "country": "ZAF",
+  "address": "Ekudeni Country Venue, Ekudeni Rd, Muldersdrift, Gauteng, South Africa",
+  "telephone": "+27 82 449 3669",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

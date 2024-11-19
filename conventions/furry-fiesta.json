@@ -1,0 +1,16 @@
+{
+  "$id": "wymjn0ilt11x1u0qkymowjtt",
+  "name": "Furry Fiesta",
+  "slug": "furry-fiesta",
+  "popularKnown": [],
+  "officialLogo": "./logos/furry-fiesta.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furryfiesta.org",
+  "country": "USA",
+  "address": "Hyatt Regency Dallas, 300 Reunion Blvd, Dallas, TX 75207, USA",
+  "telephone": "+1 (214) 651-1234",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

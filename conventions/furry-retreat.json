@@ -1,0 +1,16 @@
+{
+  "$id": "u6eit1cxtlh8pk61vl5kyht5",
+  "name": "Furry Retreat",
+  "slug": "furry-retreat",
+  "popularKnown": [],
+  "officialLogo": "./logos/furry-retreat.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furryretreat.com",
+  "country": "USA",
+  "address": "Knight's Rest Retreat, 37701 W 361st St S, Bristow, OK 74010, USA",
+  "telephone": "N/A",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

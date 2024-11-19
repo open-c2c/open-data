@@ -1,0 +1,16 @@
+{
+  "$id": "nhx4lr74ozg0q0uw45upu3du",
+  "name": "Furloween",
+  "slug": "furloween",
+  "popularKnown": [],
+  "officialLogo": "./logos/furloween.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furhold.org/furloween",
+  "country": "USA",
+  "address": "Orlando Elks Lodge, 12 North Primrose Dr., Orlando, Florida 32803, USA",
+  "telephone": "+1 (407) 282-3900",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

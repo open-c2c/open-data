@@ -1,0 +1,16 @@
+{
+  "$id": "miwsajzko0vsh0i4fxle7rpp",
+  "name": "B.J.C. All Souls Gathering at Beijing (万灵汇京)",
+  "slug": "bjc-all-souls-gathering-at-beijing",
+  "popularKnown": [],
+  "officialLogo": "./logos/bjc-all-souls-gathering-at-beijing.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://www.bilibili.com/video/BV1ps4y1F7yt",
+  "country": "CHN",
+  "address": "Level 1-2, Yunguo Guochao (云果国潮), Ronghua Road No. 7, Daxing District, Beijing, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

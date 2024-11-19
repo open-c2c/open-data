@@ -1,0 +1,16 @@
+{
+  "$id": "r1n9xitg7h8vowj9u3h50bhw",
+  "name": "Furnal Equinox",
+  "slug": "furnal-equinox",
+  "popularKnown": [],
+  "officialLogo": "./logos/furnal-equinox.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furnalequinox.com",
+  "country": "CAN",
+  "address": "Westin Harbour Castle, 1 Harbour Square, Toronto, ON M5J 1A6, Canada",
+  "telephone": "+1 (416) 869-1600",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

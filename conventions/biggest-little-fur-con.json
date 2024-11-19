@@ -1,0 +1,16 @@
+{
+  "$id": "a9tcxfjar2o185rg4460lm4s",
+  "name": "Biggest Little Fur Con",
+  "slug": "biggest-little-fur-con",
+  "popularKnown": [],
+  "officialLogo": "./logos/biggest-little-fur-con.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://goblfc.org",
+  "country": "USA",
+  "address": "Grand Sierra Resort, 2500 East 2nd Street, Reno, NV 89595, USA",
+  "telephone": "+1 (775) 789-2000",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

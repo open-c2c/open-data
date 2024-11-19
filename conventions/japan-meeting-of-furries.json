@@ -1,0 +1,16 @@
+{
+  "$id": "jssdn7ju0ijquv544zhi0zfa",
+  "name": "Japan Meeting of Furries",
+  "slug": "japan-meeting-of-furries",
+  "popularKnown": [],
+  "officialLogo": "./logos/japan-meeting-of-furries.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://j-mof.org",
+  "country": "JPN",
+  "address": "Loisir Hotel Toyohashi, 141 Fujisawacho, Toyohashi, Aichi, Japan",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

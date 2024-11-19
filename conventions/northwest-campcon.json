@@ -1,0 +1,16 @@
+{
+  "$id": "oc7bei3gkb0e9oh22r4v6egn",
+  "name": "NorthWest CampCon",
+  "slug": "northwest-campcon",
+  "popularKnown": [],
+  "officialLogo": "./logos/northwest-campcon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://nwcampcon.com",
+  "country": "USA",
+  "address": "Okanogan-Wenatchee Forest, Wenatchee, WA 98807, USA",
+  "telephone": "N/A",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

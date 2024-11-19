@@ -1,0 +1,16 @@
+{
+  "$id": "yviuaxf8jete1xnj7vz83sdx",
+  "name": "SpokAnthro",
+  "slug": "spokanthro",
+  "popularKnown": [],
+  "officialLogo": "./logos/spokanthro.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://spokanthro.org",
+  "country": "USA",
+  "address": "Ruby River Inn, 700 N Division St, Spokane, WA 99202, USA",
+  "telephone": "+1 509-326-5577",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

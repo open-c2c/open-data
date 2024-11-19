@@ -1,0 +1,16 @@
+{
+  "$id": "f53kp9likh6yj8ubcep9whg6",
+  "name": "Furry BlackLight",
+  "slug": "furry-blacklight",
+  "popularKnown": [],
+  "officialLogo": "./logos/furry-blacklight.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://fblacklight.org",
+  "country": "FRA",
+  "address": "Hilton Paris Charles de Gaulle Airport, 8 Rue de Rome, 93290 Tremblay-en-France, France",
+  "telephone": "+33 1 49 19 77 77",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

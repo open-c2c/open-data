@@ -1,0 +1,16 @@
+{
+  "$id": "cffgzusr0obm8o5zk43hzaqf",
+  "name": "Itty Bitty Fur Con",
+  "slug": "itty-bitty-fur-con",
+  "popularKnown": [],
+  "officialLogo": "./logos/itty-bitty-fur-con.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://ittybittyfurcon.com",
+  "country": "USA",
+  "address": "Mesa Convention Center, 263 N Center Street, Mesa Az 85201, USA",
+  "telephone": "+1 (623) 232-0580",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

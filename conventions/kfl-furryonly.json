@@ -1,0 +1,19 @@
+{
+  "$id": "ulsqbz2d44u3fqpkhtw5kcr4",
+  "name": "KFL FurryOnly (滇兽聚)",
+  "slug": "kfl-furryonly",
+  "popularKnown": [],
+  "officialLogo": "./logos/kfl-furryonly.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://space.bilibili.com/3537122055162459/dynamic",
+  "country": "CHN",
+  "address": "Union Hotel, Kunming, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "prqtmvwnsb6207t9ewboww1f",
+  "name": "ZodiaCon",
+  "slug": "zodiacon",
+  "popularKnown": [],
+  "officialLogo": "./logos/zodiacon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://zodiacon.org",
+  "country": "CZE",
+  "address": "Vršovská Brána, Vršov 19, 539 53 Horní Bradlo, Czechia",
+  "telephone": "+420 483 300 335",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

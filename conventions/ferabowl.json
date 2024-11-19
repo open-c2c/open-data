@@ -1,0 +1,16 @@
+{
+  "$id": "vmjqzak3n56893fqkleygpzp",
+  "name": "FeraBowl",
+  "slug": "ferabowl",
+  "popularKnown": [],
+  "officialLogo": "./logos/ferabowl.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://fb.me/ferabowlbahia",
+  "country": "BRA",
+  "address": "Bela Bowling, Alameda Euvaldo Luz, 92, Salvador, BA, Brazil",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "z5a5jjitunytcurbrjsm0co0",
+  "name": "SillyCon",
+  "slug": "sillycon",
+  "popularKnown": [],
+  "officialLogo": "./logos/sillycon.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://sillycon.ru",
+  "country": "RUS",
+  "address": "Aleksino Istra, Moscow, 143511, Russia",
+  "telephone": "+7 967 176 7373",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

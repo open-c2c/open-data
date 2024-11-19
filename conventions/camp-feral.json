@@ -1,0 +1,19 @@
+{
+  "$id": "cx7m2zur9ucyvk9nza44mhvl",
+  "name": "Camp Feral!",
+  "slug": "camp-feral",
+  "popularKnown": [],
+  "officialLogo": "./logos/feral.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://campferal.org",
+  "country": "CAN",
+  "address": "Camp Arowhon, Algonquin Park, Ontario P1H 2G6, Canada",
+  "telephone": "+1 (705) 633-5651",
+  "minimumAge": 19,
+  "cadence": "Yearly",
+  "isActive": true
+}

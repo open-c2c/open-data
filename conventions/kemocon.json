@@ -1,0 +1,16 @@
+{
+  "$id": "oefywwrs2rroxj66yq8vo46o",
+  "name": "Kemocon",
+  "slug": "kemocon",
+  "popularKnown": [],
+  "officialLogo": "./logos/kemocon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://www.kemocon.com",
+  "country": "JPN",
+  "address": "Osanbashi Hall, Yokohama Intl Passenger Terminal, 1 Chome-1-4 Kaigandori, Naka Ward, Yokohama, Kanagawa Prefecture 〒231-0002, Japan",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

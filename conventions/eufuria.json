@@ -1,0 +1,16 @@
+{
+  "$id": "uha01si6oki288aq2lewy781",
+  "name": "Eufuria",
+  "slug": "eufuria",
+  "popularKnown": [],
+  "officialLogo": "./logos/eufuria.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://eufuria.org",
+  "country": "USA",
+  "address": "Albany Capital Center, 55 Eagle Street, Albany, New York, USA",
+  "telephone": "",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

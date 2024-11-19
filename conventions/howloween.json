@@ -1,0 +1,16 @@
+{
+  "$id": "ynxpn3d9fv9vwi8j5bqo2pci",
+  "name": "Howloween",
+  "slug": "howloween",
+  "popularKnown": [],
+  "officialLogo": "./logos/howloween.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://howloween.ca",
+  "country": "CAN",
+  "address": "Executive Hotel Vancouver Airport, 7311 Westminster Hwy, Richmond, BC, Canada",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

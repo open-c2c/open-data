@@ -1,0 +1,16 @@
+{
+  "$id": "uv98arao17a8bni3abktqr9r",
+  "name": "New Year's Furry Ball",
+  "slug": "new-years-furry-ball",
+  "popularKnown": [],
+  "officialLogo": "./logos/new-years-furry-ball.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://thefurststate.com/nyfb",
+  "country": "USA",
+  "address": "Embassy Suites Newark-Wilmington/South, 854 S College Ave, Newark, DE 19713, USA",
+  "telephone": "(302) 368-8000",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

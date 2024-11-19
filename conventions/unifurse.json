@@ -1,0 +1,16 @@
+{
+  "$id": "udqt7c93lfxdc1tevkh7lchd",
+  "name": "Unifurse",
+  "slug": "unifurse",
+  "popularKnown": [],
+  "officialLogo": "./logos/unifurse.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://twitter.com/UnifurseCon",
+  "country": "CHN",
+  "address": "Dongfang Hotel, l120 Liuhua Rd, Yuexiu District, Guangzhou, Guangdong Province, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

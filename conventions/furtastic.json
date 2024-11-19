@@ -1,0 +1,16 @@
+{
+  "$id": "k9pnhtg3i0wm5pmr00jxdw19",
+  "name": "Furtastic",
+  "slug": "furtastic",
+  "popularKnown": [],
+  "officialLogo": "./logos/furtastic.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furtastic.dk",
+  "country": "DNK",
+  "address": "Fjeldholmlejren, Langholmvej 28, Gjerrild Nordstrand, 8500 Grenå. 58, Denmark",
+  "telephone": "",
+  "minimumAge": 16,
+  "cadence": "Yearly",
+  "isActive": true
+}

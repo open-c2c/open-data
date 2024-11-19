@@ -1,0 +1,16 @@
+{
+  "$id": "rw99o6esbm342ot7asdiuda9",
+  "name": "Wild Prairie Fur Con",
+  "slug": "wild-prairie-fur-con",
+  "popularKnown": [],
+  "officialLogo": "./logos/wild-prairie-fur-con.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://wpfcon.ca",
+  "country": "CAN",
+  "address": "Raddison Winnipeg Downtown, 288 Portage Ave, Winnipeg, MB, R3C 0B8, Canada",
+  "telephone": "+1 204-956-0410",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

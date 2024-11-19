@@ -1,0 +1,16 @@
+{
+  "$id": "rehs9ovdh63i2cfwxiqi9xay",
+  "name": "Flüüfff",
+  "slug": "fluufff",
+  "popularKnown": [],
+  "officialLogo": "./logos/fluufff.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://fluufff.org",
+  "country": "BEL",
+  "address": "Bedford Hotel, 135-137 Rue du Midi, 1000 Brussels, Belgium",
+  "telephone": "+32 50 43 24 00",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

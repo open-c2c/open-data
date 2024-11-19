@@ -1,0 +1,16 @@
+{
+  "$id": "f87uawuozl2ye4y4j3xvpyh8",
+  "name": "Brasil FurFest",
+  "slug": "brasil-furfest",
+  "popularKnown": [],
+  "officialLogo": "./logos/brasil-furfest.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://brasilfurfest.com.br",
+  "country": "BRA",
+  "address": "Mercure Santos Hotel, Av. Washington Luiz, 565, Santos, SP, Brazil",
+  "telephone": "+55 (13) 3036-1013",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

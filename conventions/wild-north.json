@@ -1,0 +1,16 @@
+{
+  "$id": "iq4b2wmmfak109gzqjeo4twh",
+  "name": "Wild North",
+  "slug": "wild-north",
+  "popularKnown": [],
+  "officialLogo": "./logos/wild-north.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://wildnorth.uk",
+  "country": "GBR",
+  "address": "Featherstone Castle, Hall Bank, near Haltwhistle, Northumberland NE49 0JG, United Kingdom",
+  "telephone": "",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

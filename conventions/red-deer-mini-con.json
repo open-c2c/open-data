@@ -1,0 +1,16 @@
+{
+  "$id": "rspjmdo1erbxo9vwr82crjsz",
+  "name": "Red Deer Mini Con",
+  "slug": "red-deer-mini-con",
+  "popularKnown": [],
+  "officialLogo": "./logos/red-deer-mini-con.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://reddeerminicon.ca",
+  "country": "CAN",
+  "address": "Baymont by Wyndham, 4311 49 Ave, Red Deer, AB, T4N 5Y7, Canada",
+  "telephone": "+1 (403) 346-8841",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

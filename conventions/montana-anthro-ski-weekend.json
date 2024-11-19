@@ -1,0 +1,16 @@
+{
+  "$id": "aiyflai7frjt8i7whhllyrfp",
+  "name": "Montana Anthro Ski Weekend",
+  "slug": "montana-anthro-ski-weekend",
+  "popularKnown": [],
+  "officialLogo": "./logos/montana-anthro-ski-weekend.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": null,
+  "country": "USA",
+  "address": "Great Divide Ski Area, Marysville, MT 59640, USA",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

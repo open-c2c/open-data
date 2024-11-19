@@ -1,0 +1,16 @@
+{
+  "$id": "kgjqhf4harvj67qotn1q3h2m",
+  "name": "Furthest North",
+  "slug": "furthest-north",
+  "popularKnown": [],
+  "officialLogo": "./logos/furthest-north.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furthestnorth.ca",
+  "country": "CAN",
+  "address": "Snow Creek Group Campground, west of Rocky Mountain House, Clearwater County, Alberta, Canada",
+  "telephone": "+1 (877) 537-2757",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

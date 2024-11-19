@@ -1,0 +1,16 @@
+{
+  "$id": "sv88qxoepjiwfltp47v0zrvj",
+  "name": "Furry Ski Weekend",
+  "slug": "furry-ski-weekend",
+  "popularKnown": [],
+  "officialLogo": "./logos/furry-ski-weekend.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furryskiweekend.com",
+  "country": "USA",
+  "address": "Copper Mountain Resort, 209 Ten Mile Cir, Frisco, CO 80443, USA",
+  "telephone": "+1 (866) 841-2481",
+  "minimumAge": 21,
+  "cadence": "Yearly",
+  "isActive": true
+}

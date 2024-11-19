@@ -1,0 +1,16 @@
+{
+  "$id": "h6o1n5kcnalmkyutf83rrk5j",
+  "name": "Qian Furry Gathering",
+  "slug": "qian-furry-gathering",
+  "popularKnown": [],
+  "officialLogo": "./logos/qian-furry-gathering.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://space.bilibili.com/486467616",
+  "country": "CHN",
+  "address": "Lewan International XiHuYuJing 10-1, Wudang District, Guiyang, Guizhou, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

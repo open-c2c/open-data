@@ -1,0 +1,16 @@
+{
+  "$id": "k9c8afd5t26ybwsg2z8a3i9r",
+  "name": "Munich Furdance NYE 2021",
+  "slug": "munich-furdance-nye-2021",
+  "popularKnown": [],
+  "officialLogo": "./logos/munich-furdance-nye-2021.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://dance.mucfurs.de",
+  "country": "DEU",
+  "address": "TerraMars Lasertag, Kistlerhofstrasse 60, 81379 Munich, Germany",
+  "telephone": null,
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

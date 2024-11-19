@@ -1,0 +1,16 @@
+{
+  "$id": "xpdm2b49sd3snvkmmn91ksmn",
+  "name": "FurryEST",
+  "slug": "furryest",
+  "popularKnown": [],
+  "officialLogo": "./logos/furryest.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furryest.org",
+  "country": "EST",
+  "address": "Parvemaja asukoht, Ummaru, 78423 Rapla County, Estonia",
+  "telephone": "",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

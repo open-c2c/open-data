@@ -1,0 +1,16 @@
+{
+  "$id": "gmfmha90336wd7zjjr6ph3w6",
+  "name": "WaldCon",
+  "slug": "waldcon",
+  "popularKnown": [],
+  "officialLogo": "./logos/waldcon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://waldcon.de",
+  "country": "DEU",
+  "address": "Heidebrinkschule, Heidebrinkstraße 1, 46539 Dinslaken, NRW, Germany",
+  "telephone": null,
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

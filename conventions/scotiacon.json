@@ -1,0 +1,16 @@
+{
+  "$id": "t6wwwynjgg9kteivuu8p2l53",
+  "name": "Scotiacon",
+  "slug": "scotiacon",
+  "popularKnown": [],
+  "officialLogo": "./logos/scotiacon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://scotiacon.org.uk",
+  "country": "GBR",
+  "address": "Crowne Plaza Glasgow, Congress Rd, Glasgow, G3 8QT, United Kingdom",
+  "telephone": "+44 0141 3069988",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

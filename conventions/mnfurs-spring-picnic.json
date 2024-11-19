@@ -1,0 +1,16 @@
+{
+  "$id": "du3f1kpg4qbadl7yfv9ev26g",
+  "name": "MNFurs Spring Picnic",
+  "slug": "mnfurs-spring-picnic",
+  "popularKnown": [],
+  "officialLogo": "./logos/mnfurs-spring-picnic.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://www.mnfurs.org/MNFurs_Talk/event/mnfurs-spring-picnic-2019",
+  "country": "USA",
+  "address": "Skyview Picnic Area, French Regional Park, 12615 Rockford Rd, Minneapolis, MN 55441, USA",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

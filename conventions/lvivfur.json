@@ -1,0 +1,16 @@
+{
+  "$id": "jsflopkv0absxqc4fuf2t9iy",
+  "name": "LvivFur",
+  "slug": "lvivfur",
+  "popularKnown": [],
+  "officialLogo": "./logos/lvivfur.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://vk.com/lvivfur",
+  "country": "UKR",
+  "address": "Hotel \"Mirage\", 205в Vulytsya Zahorody, Sudova Vyshnia, Lviv Oblast, Ukraine",
+  "telephone": "+380 3234 37967",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

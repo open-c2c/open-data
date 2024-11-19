@@ -1,0 +1,19 @@
+{
+  "$id": "y1fg1a7p9wtwwqhjvdy4mg5w",
+  "name": "Shouwu Party (兽屋派对)",
+  "slug": "shouwu-party",
+  "popularKnown": [],
+  "officialLogo": "./logos/shouwu-party.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://space.bilibili.com/417017966/dynamic",
+  "country": "CHN",
+  "address": "Shunfeng Innovation Center, Hangzhou, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

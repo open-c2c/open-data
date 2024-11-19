@@ -1,0 +1,16 @@
+{
+  "$id": "ss10wph5pgfa90wrivbgxefs",
+  "name": "H-Con",
+  "slug": "h-con",
+  "popularKnown": [],
+  "officialLogo": "./logos/h-con.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://h-con.org",
+  "country": "DEU",
+  "address": "Petershof, Talweg 5, 64711 Erbach/Erbuch, Germany",
+  "telephone": "+49 06 2 07/1 22-1",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

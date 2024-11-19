@@ -1,0 +1,16 @@
+{
+  "$id": "z8m147liz0ks6z7kzozj5li0",
+  "name": "Furry Summer Mexico",
+  "slug": "furry-summer-mexico",
+  "popularKnown": [],
+  "officialLogo": "./logos/furry-summer-mexico.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://fb.me/FurrySummer",
+  "country": "MEX",
+  "address": "Centro de Espectáculos Plaza, Avenida de la República 127-A, Cuauhtémoc, Tabacalera, 06030 Ciudad de México, CDMX, Mexico",
+  "telephone": "+52 55 5514 2565",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

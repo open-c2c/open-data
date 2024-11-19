@@ -1,0 +1,16 @@
+{
+  "$id": "kzu4e29uqeo8amud9z6mjdvc",
+  "name": "Gdakon",
+  "slug": "gdakon",
+  "popularKnown": [],
+  "officialLogo": "./logos/gdakon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://gdakon.org",
+  "country": "POL",
+  "address": "Novotel Gdansk Marina, Jelitkowska 20, 80-342 Gdańsk, Poland",
+  "telephone": "",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

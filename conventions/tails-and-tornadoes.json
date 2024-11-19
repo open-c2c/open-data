@@ -1,0 +1,16 @@
+{
+  "$id": "v8aucqcm3cvfza87mwbwz7w2",
+  "name": "Tails and Tornadoes",
+  "slug": "tails-and-tornadoes",
+  "popularKnown": [],
+  "officialLogo": "./logos/tails-and-tornadoes.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://tailsandtornadoes.org",
+  "country": "USA",
+  "address": "Marriott Tulsa Southern Hills, 1902 E 71st St, Tulsa, OK 74136, USA",
+  "telephone": "+1 (918) 493-7000",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

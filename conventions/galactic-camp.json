@@ -1,0 +1,16 @@
+{
+  "$id": "ju15oyhqr82ubacia21d0qdp",
+  "name": "Galactic Camp",
+  "slug": "galactic-camp",
+  "popularKnown": [],
+  "officialLogo": "./logos/galactic-camp.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://galacticcamp.com",
+  "country": "USA",
+  "address": "USS Hornet Museum, Alameda, California, USA",
+  "telephone": "",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

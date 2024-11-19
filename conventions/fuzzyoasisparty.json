@@ -1,0 +1,16 @@
+{
+  "$id": "whslrnhvk9a4njm4mjx53g1n",
+  "name": "FuzzyOasisParty",
+  "slug": "fuzzyoasisparty",
+  "popularKnown": [],
+  "officialLogo": "./logos/fuzzyoasisparty.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://twitter.com/fuzzyoasisparty",
+  "country": "CHN",
+  "address": "9009 Longxiang Avenue, Longgang District, Shenzhen, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

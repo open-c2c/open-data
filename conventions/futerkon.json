@@ -1,0 +1,16 @@
+{
+  "$id": "r16a657042wvvq88vaoi7446",
+  "name": "Futerkon",
+  "slug": "futerkon",
+  "popularKnown": [],
+  "officialLogo": "./logos/futerkon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://futerkon.pl",
+  "country": "POL",
+  "address": "Hotel Ameliówka, ul. Bohdana Kosińskiego 2, 26-001 Mąchocice Kapitulne, Poland",
+  "telephone": "+48 41 311 07 97",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

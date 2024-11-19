@@ -1,0 +1,16 @@
+{
+  "$id": "pfhts5thr2u6dm5sl2gzptmv",
+  "name": "Fauntastic",
+  "slug": "fauntastic",
+  "popularKnown": [],
+  "officialLogo": "./logos/fauntastic.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://fauntastic.eu",
+  "country": "FRA",
+  "address": "Novotel Lyon Bron Eurexpo, 260 Av. Jean Monnet, 69500 Bron, France",
+  "telephone": "+33 4 72 15 65 65",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

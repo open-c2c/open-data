@@ -1,0 +1,16 @@
+{
+  "$id": "gvohkc4wmhh96fc5m2bi0lsk",
+  "name": "CanFURence",
+  "slug": "canfurence",
+  "popularKnown": [],
+  "officialLogo": "./logos/canfurence.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://canfurence.ca",
+  "country": "CAN",
+  "address": "Delta Ottawa City Centre, 101 Lyon St North, Ottawa, ON K1R 5T9 , Canada",
+  "telephone": "+1 (613) 237-3600",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

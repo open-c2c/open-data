@@ -1,0 +1,16 @@
+{
+  "$id": "avl9a63fxf5x9g8zfoo76u6r",
+  "name": "Fur Squared",
+  "slug": "fur-squared",
+  "popularKnown": [],
+  "officialLogo": "./logos/fur-squared.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://fursquared.com",
+  "country": "USA",
+  "address": "Hilton Milwaukee City Center, 509 W Wisconsin Ave, Milwaukee, WI 53203, USA",
+  "telephone": "+1 (414) 271-7250",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

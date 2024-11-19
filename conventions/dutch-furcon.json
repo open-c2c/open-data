@@ -1,0 +1,19 @@
+{
+  "$id": "h34welky34mdokg6unbidr9a",
+  "name": "Dutch FurCon",
+  "slug": "dutch-furcon",
+  "popularKnown": [],
+  "officialLogo": "./logos/dutch-furcon.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://dutchfurcon.com",
+  "country": "NLD",
+  "address": "Big Hill Groepsaccommodatie, Wylerbaan 2b, 6561 KR Groesbeek, Netherlands",
+  "telephone": "+31 24-3971715",
+  "minimumAge": 21,
+  "cadence": "Yearly",
+  "isActive": true
+}

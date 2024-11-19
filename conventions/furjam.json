@@ -1,0 +1,16 @@
+{
+  "$id": "jkvhmou3pseszhkl6eju6b93",
+  "name": "FurJAM",
+  "slug": "furjam",
+  "popularKnown": [],
+  "officialLogo": "./logos/furjam.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furjam.org",
+  "country": "AUS",
+  "address": "Forresters Hotel, 336 Riley Street, Surry Hills NSW 2010, Australia",
+  "telephone": "(02) 9212 3035",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

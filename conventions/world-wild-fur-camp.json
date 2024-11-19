@@ -1,0 +1,16 @@
+{
+  "$id": "wa7rqx1af7n6tfcsqtzxyntl",
+  "name": "World Wild Fur Camp",
+  "slug": "world-wild-fur-camp",
+  "popularKnown": [],
+  "officialLogo": "./logos/world-wild-fur-camp.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://worldwildfurcamp.com",
+  "country": "USA",
+  "address": "YMCA Camp Campbell Gard, 4803 Augspurger Rd, Hamilton, Ohio, USA",
+  "telephone": "+1 513-867-0600",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

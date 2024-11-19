@@ -1,0 +1,19 @@
+{
+  "$id": "cvfnk535xzy3dgry6gcslyh6",
+  "name": "Rusfurence",
+  "slug": "rusfurence",
+  "popularKnown": [],
+  "officialLogo": "./logos/rusfurence.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://rusfurence.ru",
+  "country": "RUS",
+  "address": "Vozdvizhenskoe Park Hotel, Rossiyskaya ul., Serpukhov, Moscow Oblast 142261, Russia",
+  "telephone": "+7 495 526-67-00",
+  "minimumAge": 16,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "koitkjckdlfib6ypby194ton",
+  "name": "Just Fur The Weekend",
+  "slug": "just-fur-the-weekend",
+  "popularKnown": [],
+  "officialLogo": "./logos/just-fur-the-weekend.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://justfurtheweekend.org.uk",
+  "country": "GBR",
+  "address": "Holiday Inn Bristol-Filton, Filton Road, Winterbourne, Bristol, United Kingdom",
+  "telephone": "",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

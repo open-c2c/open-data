@@ -1,0 +1,16 @@
+{
+  "$id": "ot21q3ctmzn4dr9on08brnhu",
+  "name": "It's Ruff Out",
+  "slug": "its-ruff-out",
+  "popularKnown": [],
+  "officialLogo": "./logos/its-ruff-out.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://wildernesscampout.org/itsruffout",
+  "country": "USA",
+  "address": "Lake Kegonsa State Park, 2405 Door Creek Road, Stoughton, WI 53589, USA",
+  "telephone": "+1 (608) 873-9695",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

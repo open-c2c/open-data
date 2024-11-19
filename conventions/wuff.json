@@ -1,0 +1,16 @@
+{
+  "$id": "lsxadpwnslry7ktc4jplch1m",
+  "name": "WUFF",
+  "slug": "wuff",
+  "popularKnown": [],
+  "officialLogo": "./logos/wuff.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://wuff.ua",
+  "country": "UKR",
+  "address": "Konhres-Hotel \"Pushcha\", Mykoly Yunkerova St, 20, Kiev, Ukraine",
+  "telephone": "+380 44 364 9000",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

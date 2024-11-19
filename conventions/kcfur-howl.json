@@ -1,0 +1,16 @@
+{
+  "$id": "prlnijfwc4nq5sk6dtudg3zm",
+  "name": "KCFur Howl",
+  "slug": "kcfur-howl",
+  "popularKnown": [],
+  "officialLogo": "./logos/kcfur-howl.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://kchowl.com",
+  "country": "USA",
+  "address": "Kansas City Metro Area, Kansas City, MO, USA",
+  "telephone": "N/A",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

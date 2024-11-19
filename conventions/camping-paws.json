@@ -1,0 +1,16 @@
+{
+  "$id": "eeq89nbykvqw8s7e661t8hpd",
+  "name": "Camping Paws",
+  "slug": "camping-paws",
+  "popularKnown": [],
+  "officialLogo": "./logos/camping-paws.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://fb.me/CapitalFurCampingPaws",
+  "country": "MEX",
+  "address": "Presa Capoxi, 54570 Jilotzingo, Estado de Mexico, Mexico",
+  "telephone": "55 8171 2729",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

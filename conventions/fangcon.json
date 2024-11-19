@@ -1,0 +1,16 @@
+{
+  "$id": "mgfhf5ly8rr1alyx3tbysllu",
+  "name": "Fangcon",
+  "slug": "fangcon",
+  "popularKnown": [],
+  "officialLogo": "./logos/fangcon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://fangcon.com",
+  "country": "USA",
+  "address": "DoubleTree Perimeter Park, 8 Perimeter Park S, Birmingham, AL 35243, USA",
+  "telephone": "+1 (205) 972-1141",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

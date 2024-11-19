@@ -1,0 +1,19 @@
+{
+  "$id": "ygri6s09bf411exsqmxt9n2n",
+  "name": "Kemoket",
+  "slug": "kemoket",
+  "popularKnown": [],
+  "officialLogo": "./logos/kemoket.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://skypalette.jp/kemoket",
+  "country": "JPN",
+  "address": "Tokyo Ryutsu Center, 6 Chome-1-1 Heiwajima, Japan, Ōta, Tokyo 143-0006, Japan",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "ts9h0td2zklyd4ukt6f79f42",
+  "name": "FurCombo",
+  "slug": "furcombo",
+  "popularKnown": [],
+  "officialLogo": "./logos/furcombo.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://space.bilibili.com/1487177040",
+  "country": "CHN",
+  "address": "Greenland Bingfen City, Wuhan, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

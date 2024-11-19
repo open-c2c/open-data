@@ -1,0 +1,16 @@
+{
+  "$id": "ryq25ztw6sdrjiphkxycivbk",
+  "name": "Gateway Furmeet",
+  "slug": "gateway-furmeet",
+  "popularKnown": [],
+  "officialLogo": "./logos/gateway-furmeet.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://gatewayfurmeet.org",
+  "country": "USA",
+  "address": "Sheraton Westport Chalet, 191 Westport Plaza, St. Louis, Missouri 63146, USA",
+  "telephone": "+1 (314) 434-0100",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

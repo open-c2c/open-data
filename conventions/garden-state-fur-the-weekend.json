@@ -1,0 +1,16 @@
+{
+  "$id": "rb50yoetrnhlh2yfvjww5jlw",
+  "name": "Garden State Fur The Weekend",
+  "slug": "garden-state-fur-the-weekend",
+  "popularKnown": [],
+  "officialLogo": "./logos/garden-state-fur-the-weekend.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://gsftw.org",
+  "country": "USA",
+  "address": "Hyatt Regency New Brunswick, 2 Albany St, New Brunswick, NJ 08901, USA",
+  "telephone": "+1 732 873 1234",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

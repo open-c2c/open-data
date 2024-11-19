@@ -1,0 +1,19 @@
+{
+  "$id": "jj869v5g5xtzaqqq131fuzyf",
+  "name": "Furry Weekend Holland",
+  "slug": "furry-weekend-holland",
+  "popularKnown": [],
+  "officialLogo": "./logos/furry-weekend-holland.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://furryweekend.nl",
+  "country": "NLD",
+  "address": "Castle de Berckt, De Berckt 1 5991 PD, Baarlo, Netherlands",
+  "telephone": " +31 77 477 1385",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

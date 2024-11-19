@@ -1,0 +1,16 @@
+{
+  "$id": "nf30uwmamksvjycdghjoxzit",
+  "name": "FursonaCon",
+  "slug": "fursonacon",
+  "popularKnown": [],
+  "officialLogo": "./logos/fursonacon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://fursonacon.com",
+  "country": "USA",
+  "address": "Newport News Marriott at City Center, 740 Town Center Drive, Newport News, Virginia 23606, USA",
+  "telephone": "+1 (757) 499-4400",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

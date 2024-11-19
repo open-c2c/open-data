@@ -1,0 +1,16 @@
+{
+  "$id": "xppgwuco4jbtfg65hf1d3sb5",
+  "name": "Anthro SouthEast",
+  "slug": "anthro-southeast",
+  "popularKnown": [],
+  "officialLogo": "./logos/anthro-southeast.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://anthrose.com",
+  "country": "USA",
+  "address": "The Chattanoogan, 1201 Broad St, Chattanooga, TN 37402, USA",
+  "telephone": "+1 423-756-3400",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

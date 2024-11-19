@@ -1,0 +1,16 @@
+{
+  "$id": "d1gkojxt0tnpkthld7r2ae4h",
+  "name": "CBRFUR",
+  "slug": "cbrfur",
+  "popularKnown": [],
+  "officialLogo": "./logos/cbrfur.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furcon.com.au/cbrfur",
+  "country": "AUS",
+  "address": "Pavilion on Northbourne, 242 Northbourne Ave, Dickson ACT 2602, Australia",
+  "telephone": "+61 2 6247 6888",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

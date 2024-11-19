@@ -1,0 +1,16 @@
+{
+  "$id": "kl2i2oidioqbsgn92avl29un",
+  "name": "KRAZ",
+  "slug": "kraz",
+  "popularKnown": [],
+  "officialLogo": "./logos/kraz.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://kraz.eu",
+  "country": "CZE",
+  "address": "Boskovice Western Park, Komenského 50, Boskovice, Czechia",
+  "telephone": "+420 737 000 000",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "t2jrxftne44mibq39ku9oy8v",
+  "name": "Cabincon (UK)",
+  "slug": "cabincon-uk",
+  "popularKnown": [],
+  "officialLogo": "./logos/cabincon-uk.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://cabincon.wixsite.com/home",
+  "country": "GBR",
+  "address": "Scarborough Beach Chalets, North Bay, Scarborough YO12 7TN, United Kingdom",
+  "telephone": "+44 1723 367659",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

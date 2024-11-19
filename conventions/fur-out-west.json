@@ -1,0 +1,16 @@
+{
+  "$id": "o4p6c4nbaeoh05on7ciizg39",
+  "name": "Fur Out West",
+  "slug": "fur-out-west",
+  "popularKnown": [],
+  "officialLogo": "./logos/fur-out-west.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furoutwest.com",
+  "country": "AUS",
+  "address": "Atrium Hotel Mandurah, 65 Ormsby Terrace, Mandurah, WA 6210, Australia",
+  "telephone": "+61 8 9535 6633",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

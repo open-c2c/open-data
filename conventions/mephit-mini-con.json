@@ -1,0 +1,16 @@
+{
+  "$id": "dkjm0l4vp4vc83o51uf53vbx",
+  "name": "Mephit Mini Con",
+  "slug": "mephit-mini-con",
+  "popularKnown": [],
+  "officialLogo": "./logos/mephit-mini-con.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://mephitminicon.de",
+  "country": "DEU",
+  "address": "Jugendherberge Freusburg, Burgstraße 46, 57548 Kirchen (Sieg), Germany",
+  "telephone": "",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

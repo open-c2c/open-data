@@ -1,0 +1,16 @@
+{
+  "$id": "y4er0rqnz0z758utgbaeuyil",
+  "name": "FurDU",
+  "slug": "furdu",
+  "popularKnown": [],
+  "officialLogo": "./logos/furdu.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furdu.com.au",
+  "country": "AUS",
+  "address": "Crowne Plaza, 2807 Gold Coast Hwy, Surfers Paradise, QLD 4217, Australia",
+  "telephone": "",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

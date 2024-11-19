@@ -1,0 +1,16 @@
+{
+  "$id": "t6x7orzkb58845hiohgsoksu",
+  "name": "ConFurtiva",
+  "slug": "confurtiva",
+  "popularKnown": [],
+  "officialLogo": "./logos/confurtiva.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://facebook.com/groups/furrymx",
+  "country": "MEX",
+  "address": "Hotel Ritz, Av Francisco I. Madero 30, Centro Histórico, 06000,  Ciudad de México, CDMX, Mexico",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

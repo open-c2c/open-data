@@ -1,0 +1,16 @@
+{
+  "$id": "hcd3t67daqicjqfkeddwxv7h",
+  "name": "WI Wilderness Campout",
+  "slug": "wi-wilderness-campout",
+  "popularKnown": [],
+  "officialLogo": "./logos/wi-wilderness-campout.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://wildernesscampout.org",
+  "country": "USA",
+  "address": "Astico County Park, 8943 County Road T, Columbus, WI 53925, USA",
+  "telephone": "+1 (920) 386-3700",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

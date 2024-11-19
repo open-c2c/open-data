@@ -1,0 +1,16 @@
+{
+  "$id": "dy0g3s44lb60uvf6xdcpb1q9",
+  "name": "Anthro Weekend Utah",
+  "slug": "anthro-weekend-utah",
+  "popularKnown": [],
+  "officialLogo": "./logos/anthro-weekend-utah.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://anthroweekendutah.org",
+  "country": "USA",
+  "address": "Davis Conference Center, 1651 North 700 West, Layton, UT 84041, USA",
+  "telephone": "+1 (801) 416-8888",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

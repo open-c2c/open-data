@@ -1,0 +1,19 @@
+{
+  "$id": "xfueczfv7wwnz6utfg9awk6f",
+  "name": "FurryPinas",
+  "slug": "furrypinas",
+  "popularKnown": [],
+  "officialLogo": "./logos/furrypinas.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://furrypinas.com",
+  "country": "PHL",
+  "address": "Bayanihan Center, 8008 Pioneer St., Pasig City, Metro Manila, Philippines",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

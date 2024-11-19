@@ -1,0 +1,16 @@
+{
+  "$id": "g0ppfh2vbxf22dczxb3aiqgb",
+  "name": "FurcoNZ Camp",
+  "slug": "furconz-camp",
+  "popularKnown": [],
+  "officialLogo": "./logos/furconz-camp.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furconz.org.nz",
+  "country": "NZL",
+  "address": "Forest Lakes Camping and Conference Centre, Otaki, New Zealand",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

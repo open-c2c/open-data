@@ -1,0 +1,16 @@
+{
+  "$id": "ylubfaa2tvk7u03rpn4s9iq9",
+  "name": "Furry Weekend Atlanta",
+  "slug": "furry-weekend-atlanta",
+  "popularKnown": [],
+  "officialLogo": "./logos/furry-weekend-atlanta.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furryweekend.com",
+  "country": "USA",
+  "address": "Atlanta Marriott Marquis, 265 Peachtree Center Ave NE, Atlanta, GA 30303, USA",
+  "telephone": "+1 (404) 521-0000",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "x13j0bw2elncy6dlhbkwuwp4",
+  "name": "Sin City Murr Con",
+  "slug": "sin-city-murr-con",
+  "popularKnown": [],
+  "officialLogo": "./logos/sin-city-murr-con.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://sincitymurrcon.com",
+  "country": "USA",
+  "address": "Renaissance Las Vegas Hotel, 3400 Paradise Blvd, Las Vegas, NV 89169, USA",
+  "telephone": "+1 (702) 784-5700",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "kaeujxwonv6cklzt5h9gjs7c",
+  "name": "HiFurry",
+  "slug": "hifurry",
+  "popularKnown": [],
+  "officialLogo": "./logos/hifurry.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://twitter.com/HiFurryOfficial",
+  "country": "CHN",
+  "address": "Wanfu Hilton Hotels & Resorts, Baiyun District, Guangzhou, Guangdong Province, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

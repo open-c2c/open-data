@@ -1,0 +1,16 @@
+{
+  "$id": "hjhqgoz7c91zv6r78ep0xqh1",
+  "name": "FinFur Animus",
+  "slug": "finfur-animus",
+  "popularKnown": [],
+  "officialLogo": "./logos/finfur-animus.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://animus.finfur.net",
+  "country": "FIN",
+  "address": "Kokoushotelli Gustavelund, Kirkkotie 36, 04310 Tuusula, Finland",
+  "telephone": "+358 9 273751",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

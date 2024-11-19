@@ -1,0 +1,16 @@
+{
+  "$id": "s95lubjv34u3n7nyr5xg1wqb",
+  "name": "Aurawra",
+  "slug": "aurawra",
+  "popularKnown": [],
+  "officialLogo": "./logos/aurawra.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://aurawra.org",
+  "country": "AUS",
+  "address": "PARKROYAL Parramatta, 22 Levey St, Wolli Creek NSW 2205, Australia",
+  "telephone": "+61 2 9689 3333",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

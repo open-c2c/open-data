@@ -1,0 +1,16 @@
+{
+  "$id": "z3bcglcx0uks80al905veb2x",
+  "name": "IndyFurCon",
+  "slug": "indyfurcon",
+  "popularKnown": [],
+  "officialLogo": "./logos/indyfurcon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://indyfurcon.com",
+  "country": "USA",
+  "address": "Wyndham Indianapolis West, 2544 Executive Dr, Indianapolis, IN 46241, USA",
+  "telephone": "+1 (317) 248-2481",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

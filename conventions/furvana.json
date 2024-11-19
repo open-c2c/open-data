@@ -1,0 +1,16 @@
+{
+  "$id": "nazhjenxpjsnf3lb277bym3k",
+  "name": "Furvana",
+  "slug": "furvana",
+  "popularKnown": [],
+  "officialLogo": "./logos/furvana.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furvana.org",
+  "country": "USA",
+  "address": "Ocean Shores Convention Center, 120 W Chance a La Mer NW, Ocean Shores, WA 98569, USA",
+  "telephone": "+1 360-289-4411",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

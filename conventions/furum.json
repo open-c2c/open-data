@@ -1,0 +1,16 @@
+{
+  "$id": "suz8957sqothoaze0vuem5ay",
+  "name": "FURUM",
+  "slug": "furum",
+  "popularKnown": [],
+  "officialLogo": "./logos/furum.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furum.org",
+  "country": "MYS",
+  "address": "Hotel Armada, Lot 6, Lorong Utara C, Section 52, 46200 Petaling Jaya Selangor, Malaysia",
+  "telephone": "+60 3-7954 6888",
+  "minimumAge": 13,
+  "cadence": "Yearly",
+  "isActive": true
+}

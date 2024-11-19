@@ -1,0 +1,16 @@
+{
+  "$id": "ohg35q99kevd8q8skltow5sg",
+  "name": "Eurofurence",
+  "slug": "eurofurence",
+  "popularKnown": [],
+  "officialLogo": "./logos/eurofurence.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://eurofurence.org",
+  "country": "DEU",
+  "address": "Estrel Hotel Berlin, Sonnenallee 225, 12057 Berlin, Germany",
+  "telephone": "+49 391 5949 0",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

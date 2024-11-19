@@ -1,0 +1,16 @@
+{
+  "$id": "naj5l2leibovk2zehm321y2k",
+  "name": "Yun Island",
+  "slug": "yun-island",
+  "popularKnown": [],
+  "officialLogo": "./logos/yun-island.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://www.yunisland.cn",
+  "country": "CHN",
+  "address": "Western China Expo City, 2309 Shuzhou Rd, Shuangliu, Chengdu, Sichuan, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

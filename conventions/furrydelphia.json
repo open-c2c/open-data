@@ -1,0 +1,16 @@
+{
+  "$id": "s9xu5i77iia4gt2kdtvzjf31",
+  "name": "Furrydelphia",
+  "slug": "furrydelphia",
+  "popularKnown": [],
+  "officialLogo": "./logos/furrydelphia.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furrydelphia.com",
+  "country": "USA",
+  "address": "Sheraton Philadelphia Downtown, 201 North 17th Street, Philadelphia, PA 19103, USA",
+  "telephone": "+1 (844) 631-0595",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

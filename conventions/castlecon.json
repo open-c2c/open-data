@@ -1,0 +1,16 @@
+{
+  "$id": "zu9zvknmtfval29fw9fon2i5",
+  "name": "CastleCon",
+  "slug": "castlecon",
+  "popularKnown": [],
+  "officialLogo": "./logos/castlecon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://castlecon.de",
+  "country": "DEU",
+  "address": "Leisure Park Camping Schüttehof, Schütteberg 7-9, 72160 Horb am Neckar, Germany",
+  "telephone": "+49 7451 3951",
+  "minimumAge": 16,
+  "cadence": "Yearly",
+  "isActive": true
+}

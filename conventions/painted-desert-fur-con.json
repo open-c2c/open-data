@@ -1,0 +1,16 @@
+{
+  "$id": "in3dwg4nt04v2v2xsroc0jxo",
+  "name": "Painted Desert Fur Con",
+  "slug": "painted-desert-fur-con",
+  "popularKnown": [],
+  "officialLogo": "./logos/painted-desert-fur-con.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://painteddesertfc.com",
+  "country": "USA",
+  "address": "Scottsdale Plaza Resort, 7200 N Scottsdale Rd, Paradise Valley, AZ 85253, USA",
+  "telephone": "+1 (480) 948-5000",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

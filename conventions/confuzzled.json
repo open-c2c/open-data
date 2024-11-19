@@ -1,0 +1,16 @@
+{
+  "$id": "nggtui49jkzgbwl7bh0522vf",
+  "name": "ConFuzzled",
+  "slug": "confuzzled",
+  "popularKnown": [],
+  "officialLogo": "./logos/confuzzled.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://confuzzled.org.uk",
+  "country": "GBR",
+  "address": "Hilton Birmingham Metropole, National Exhibition Centre, Birmingham B40 1PP, United Kingdom",
+  "telephone": "+44 121 780 4242",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

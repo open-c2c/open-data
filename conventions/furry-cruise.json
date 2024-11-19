@@ -1,0 +1,19 @@
+{
+  "$id": "apkqfweofmhjaobzpdzltglw",
+  "name": "Furry Cruise",
+  "slug": "furry-cruise",
+  "popularKnown": [],
+  "officialLogo": "./logos/furry-cruise.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://furrycruise.com",
+  "country": "USA",
+  "address": "Varies from origin, USA",
+  "telephone": "+1 (734) 340-4553",
+  "minimumAge": null,
+  "cadence": "Irregular",
+  "isActive": true
+}

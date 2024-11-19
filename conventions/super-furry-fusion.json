@@ -1,0 +1,16 @@
+{
+  "$id": "kf38j9tf9iik74kazt9rra6e",
+  "name": "Super Furry Fusion",
+  "slug": "super-furry-fusion",
+  "popularKnown": [],
+  "officialLogo": "./logos/super-furry-fusion.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furrychina.com",
+  "country": "CHN",
+  "address": "Grand New Palace Banquet, 88 Gaoping Rd, Zhabei District, Shanghai, China",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "imr1i8qd8or58sxmivlqm2n0",
+  "name": "Fur-Eh!",
+  "slug": "fur-eh",
+  "popularKnown": [],
+  "officialLogo": "./logos/fur-eh.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://fureh.ca",
+  "country": "CAN",
+  "address": "Edmonton Inn & Conference Centre, 11830 Kingsway Avenue, Edmonton, Alberta, T5G 3J5, Canada",
+  "telephone": "+1 (780) 454-5454",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "kaijys19lkiockhg99iq2vqs",
+  "name": "Anthro Northwest",
+  "slug": "anthro-northwest",
+  "popularKnown": [],
+  "officialLogo": "./logos/anthro-northwest.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://anthronw.com",
+  "country": "USA",
+  "address": "Hyatt Regency Seattle, 808 Howell Street, Seattle, WA 98101, USA",
+  "telephone": "+1 (662) 426-8476",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

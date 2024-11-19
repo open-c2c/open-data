@@ -1,0 +1,16 @@
+{
+  "$id": "pi0gwjxz1reulm6e4vmhxgpw",
+  "name": "Furrnion",
+  "slug": "furrnion",
+  "popularKnown": [],
+  "officialLogo": "./logos/furrnion.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furrnion.org",
+  "country": "ESP",
+  "address": "Hotel Meliá Barajas, Av. de Logroño, 305, 28042 Madrid, Spain",
+  "telephone": "+34 912 76 47 47",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

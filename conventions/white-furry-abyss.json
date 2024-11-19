@@ -1,0 +1,19 @@
+{
+  "$id": "v0gcgz5mkh3gx4xb4ldpubqr",
+  "name": "White Furry Abyss (白兽渊)",
+  "slug": "white-furry-abyss",
+  "popularKnown": [],
+  "officialLogo": "./logos/white-furry-abyss.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://space.bilibili.com/1368535266/dynamic",
+  "country": "CHN",
+  "address": "ChangbaiTiandi Hotel, Yanbian, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "kfa9hw3xvgl0i8rk297l0tn3",
+  "name": "Motor City Furry Con",
+  "slug": "motor-city-furry-con",
+  "popularKnown": [],
+  "officialLogo": "./logos/motor-city-furry-con.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://motorcityfurrycon.org",
+  "country": "USA",
+  "address": "Ann Arbor Marriott Ypsilanti Eagle Crest, 1275 S Huron St, Ypsilanti, MI 48197, USA",
+  "telephone": "+1 (734) 487-2000",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

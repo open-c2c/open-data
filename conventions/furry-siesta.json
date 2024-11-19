@@ -1,0 +1,16 @@
+{
+  "$id": "fyjm569ju1bxs63d8cu70vo8",
+  "name": "Furry Siesta",
+  "slug": "furry-siesta",
+  "popularKnown": [],
+  "officialLogo": "./logos/furry-siesta.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furrysiesta.com",
+  "country": "USA",
+  "address": "Hyatt Regency Dallas, 300 Reunion Blvd, Dallas, TX 75207, USA",
+  "telephone": "+1 (972) 619-1234",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

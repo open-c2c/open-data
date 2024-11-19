@@ -1,0 +1,16 @@
+{
+  "$id": "gvg9laucv1pke6vkwm7hepis",
+  "name": "Star Furry Meeting (星绒会)",
+  "slug": "star-furry-meeting",
+  "popularKnown": [],
+  "officialLogo": "./logos/star-furry-meeting.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://space.bilibili.com/1528987634",
+  "country": "CHN",
+  "address": "CaiFuJianGuo Hotel, Dongsan St, Jinshui District, Zhengzhou, Henan, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

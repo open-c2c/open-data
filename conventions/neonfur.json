@@ -1,0 +1,16 @@
+{
+  "$id": "kheztr7w61jtp1aveplswdjs",
+  "name": "NeonFur",
+  "slug": "neonfur",
+  "popularKnown": [],
+  "officialLogo": "./logos/neonfur.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://neonfur.com",
+  "country": "AUS",
+  "address": "Greenmount Beach Hotel, 3 Hill St, Coolangatta, QLD 4225, Australia",
+  "telephone": "+61 7 5536 1222",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

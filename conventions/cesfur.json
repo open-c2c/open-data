@@ -1,0 +1,16 @@
+{
+  "$id": "mv7jup4zx6xig13vh2gvq23e",
+  "name": "ČeSFuR",
+  "slug": "cesfur",
+  "popularKnown": [],
+  "officialLogo": "./logos/cesfur.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://cesfur.org",
+  "country": "CZE",
+  "address": "Hotel Skalský dvůr, Lísek 52, 593 01 Bystřice nad Pernštejnem, Czechia",
+  "telephone": "+420 606 725 502",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

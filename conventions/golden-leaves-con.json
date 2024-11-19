@@ -1,0 +1,16 @@
+{
+  "$id": "iy1fh6m845wj45cmijmxpsqj",
+  "name": "Golden Leaves Con",
+  "slug": "golden-leaves-con",
+  "popularKnown": [],
+  "officialLogo": "./logos/golden-leaves-con.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://glc.furry.ch",
+  "country": "CHE",
+  "address": "C'est la vie & Panorama Hotel, Engi, 6086 Hasliberg, Switzerland",
+  "telephone": "",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

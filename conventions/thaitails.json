@@ -1,0 +1,16 @@
+{
+  "$id": "s8hxst2498crjzm0d64kfpr3",
+  "name": "Thaitails",
+  "slug": "thaitails",
+  "popularKnown": [],
+  "officialLogo": "./logos/thaitails.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://thaitails.net",
+  "country": "THA",
+  "address": "Arnoma Grand Hotel Bangkok, 99 Ratchadamri Rd, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon, Bangkok 10330, Thailand",
+  "telephone": "+66 2 655 5555",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

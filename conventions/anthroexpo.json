@@ -1,0 +1,16 @@
+{
+  "$id": "fv1se86bmje3qo05i359r8bs",
+  "name": "AnthroExpo",
+  "slug": "anthroexpo",
+  "popularKnown": [],
+  "officialLogo": "./logos/anthroexpo.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://anthroexpo.net",
+  "country": "USA",
+  "address": "Wyndham Oklahoma City, 2945 Northwest Expy, Oklahoma City, OK 73112, USA",
+  "telephone": "+1 (405) 848-4811",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

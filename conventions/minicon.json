@@ -1,0 +1,16 @@
+{
+  "$id": "jydl2kgacemvxdlpyfkxp540",
+  "name": "MiniCon",
+  "slug": "minicon",
+  "popularKnown": [],
+  "officialLogo": "./logos/minicon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://minicon.cz",
+  "country": "CZE",
+  "address": "Hlavatce čp. 2, 391 73 Hlavatce, Tábor District, Czechia",
+  "telephone": "+420 730 610 029",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

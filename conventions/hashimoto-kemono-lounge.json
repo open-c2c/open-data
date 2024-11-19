@@ -1,0 +1,16 @@
+{
+  "$id": "axwjlnrzh9h4a52estgsvnkx",
+  "name": "Hashimoto Kemono Lounge",
+  "slug": "hashimoto-kemono-lounge",
+  "popularKnown": [],
+  "officialLogo": "./logos/hashimoto-kemono-lounge.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://kemono-square.com",
+  "country": "JPN",
+  "address": "HK Lounge, HK 4th Building 6F 3-14-13 Hashimoto, Midori-ku, Sagamihara City, Kanagawa Prefecture, 252-0143, Japan",
+  "telephone": "+81 42-770-7073",
+  "minimumAge": 20,
+  "cadence": "Yearly",
+  "isActive": true
+}

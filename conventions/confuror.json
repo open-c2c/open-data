@@ -1,0 +1,16 @@
+{
+  "$id": "mr7ta6pz017sge245rti3hcx",
+  "name": "Confuror",
+  "slug": "confuror",
+  "popularKnown": [],
+  "officialLogo": "./logos/confuror.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://confuror.org",
+  "country": "MEX",
+  "address": "Fiesta Americana Guadalajara, Calle Aurelio Aceves 225, Vallarta Poniente 44110, Guadalajara, Jalisco, Mexico",
+  "telephone": "+52 (33) 38 18 14 00",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

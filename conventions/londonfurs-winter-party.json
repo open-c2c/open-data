@@ -1,0 +1,16 @@
+{
+  "$id": "tr4ddx0unbvc9aicflncctju",
+  "name": "LondonFurs Winter Party",
+  "slug": "londonfurs-winter-party",
+  "popularKnown": [],
+  "officialLogo": "./logos/londonfurs-winter-party.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://londonfurs.org.uk/meets",
+  "country": "GBR",
+  "address": "Tank & Paddle - Minster Court, (for the Saturday party), 3 Mincing Lane, London, EC3R 7AA, United Kingdom",
+  "telephone": "+44 20 7929 8399",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

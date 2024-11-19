@@ -1,0 +1,19 @@
+{
+  "$id": "krh8435ec91xvxsl2oyjwhql",
+  "name": "Morph Parade",
+  "slug": "morph-parade",
+  "popularKnown": [],
+  "officialLogo": "./logos/morph-parade.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://twitter.com/mofuparade",
+  "country": "THA",
+  "address": "ITF Tower, floor 35, Si Lom, Khwaeng Suriya Wong, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand",
+  "telephone": "+66 99 712 8065",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

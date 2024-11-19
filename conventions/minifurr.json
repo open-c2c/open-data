@@ -1,0 +1,16 @@
+{
+  "$id": "tpv01jt0s08y5xfjx8h243ui",
+  "name": "Minifurr",
+  "slug": "minifurr",
+  "popularKnown": [],
+  "officialLogo": "./logos/minifurr.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://minifurr.rawu.eu",
+  "country": "CZE",
+  "address": "Cottage Sauna Polnička, Polnička 212, 591 02 Žďár nad Sázavou, Czechia",
+  "telephone": "+420 777 770 159",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

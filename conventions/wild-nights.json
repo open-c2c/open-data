@@ -1,0 +1,16 @@
+{
+  "$id": "glev8b8lrcdfhjsuzxtecure",
+  "name": "Wild Nights",
+  "slug": "wild-nights",
+  "popularKnown": [],
+  "officialLogo": "./logos/wild-nights.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://wildnights.org",
+  "country": "USA",
+  "address": "Robbers Cave State Park, Wilburton, Oklahoma 74578, USA",
+  "telephone": "+1 (918) 465-2565",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

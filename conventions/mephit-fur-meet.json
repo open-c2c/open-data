@@ -1,0 +1,16 @@
+{
+  "$id": "y7410gdpjn1blowulxcrbns0",
+  "name": "Mephit Fur Meet",
+  "slug": "mephit-fur-meet",
+  "popularKnown": [],
+  "officialLogo": "./logos/mephit-fur-meet.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://mephitfurmeet.org",
+  "country": "USA",
+  "address": "Whispering Woods Conf. Center, 11200 Goodman Rd, Olive Branch, MS 38654-4212, USA",
+  "telephone": "+1 (662) 895-2941",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

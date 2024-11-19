@@ -1,0 +1,16 @@
+{
+  "$id": "qoini8y1gsdvkphb5bjoffod",
+  "name": "Megaplex",
+  "slug": "megaplex",
+  "popularKnown": [],
+  "officialLogo": "./logos/megaplex.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://megaplexcon.org",
+  "country": "USA",
+  "address": "Caribe Royale, 8101 World Center Dr, Orlando, Florida, 32821, USA",
+  "telephone": "+1 407-238-8000",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

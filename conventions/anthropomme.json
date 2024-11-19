@@ -1,0 +1,16 @@
+{
+  "$id": "badh9z6np4ty2bwnfxinpisa",
+  "name": "AnthroPomme",
+  "slug": "anthropomme",
+  "popularKnown": [],
+  "officialLogo": "./logos/anthropomme.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://anthropomme.fr",
+  "country": "FRA",
+  "address": "Gîte du Drugeon, Le Drugeon, 35340 La Bouëxière, France",
+  "telephone": "+33 2 99 68 31 25",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

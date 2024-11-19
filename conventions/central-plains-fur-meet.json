@@ -1,0 +1,16 @@
+{
+  "$id": "v9fui4giufgv2a34qhzqs1le",
+  "name": "Central Plains Fur Meet",
+  "slug": "central-plains-fur-meet",
+  "popularKnown": [],
+  "officialLogo": "./logos/central-plains-fur-meet.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://centralplainsfurmeet.com",
+  "country": "USA",
+  "address": "Lake Afton, 24715 West 39th St S, Goddard, KS 67052, USA",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

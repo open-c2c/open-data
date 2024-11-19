@@ -1,0 +1,16 @@
+{
+  "$id": "z0h98cc7i07so1r375zq5yfo",
+  "name": "FURconsin",
+  "slug": "furconsin",
+  "popularKnown": [],
+  "officialLogo": "./logos/furconsin.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furconsin.com",
+  "country": "USA",
+  "address": "Grandview Lakeside Log Lodge, Little Hills Lake, Wild Rose, WI 54984, USA",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

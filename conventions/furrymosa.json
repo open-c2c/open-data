@@ -1,0 +1,19 @@
+{
+  "$id": "ggxhonus68oxdnh1mz6s3cff",
+  "name": "Furrymosa",
+  "slug": "furrymosa",
+  "popularKnown": [],
+  "officialLogo": "./logos/furrymosa.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://furrymosa.gjs.tw",
+  "country": "TWN",
+  "address": "Triple Sports Complex (三重綜合體育館), No. 2, Section 1, New Taipei Blvd, Sanchong District, New Taipei City, Taiwan",
+  "telephone": "+886 2 2982 6151",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

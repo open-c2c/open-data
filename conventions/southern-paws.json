@@ -1,0 +1,16 @@
+{
+  "$id": "yw8dy3csh9nfxbbml26vm3wu",
+  "name": "Southern Paws",
+  "slug": "southern-paws",
+  "popularKnown": [],
+  "officialLogo": "./logos/southern-paws.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://southernpaws.org.nz",
+  "country": "NZL",
+  "address": "Waipara Adventure Centre, 137 Darnley Rd, Glasnevin 7483, New Zealand",
+  "telephone": "+64 3-314 6881",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "acl82v72v6mibu6orizwvrix",
+  "name": "Infurnity",
+  "slug": "infurnity",
+  "popularKnown": [],
+  "officialLogo": "./logos/infurnity.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://infurnity.com",
+  "country": "TWN",
+  "address": "Fullon Hotel Tamsui, 251 新北市淡水區觀海路83號, Taiwan",
+  "telephone": "02-2628-7777",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

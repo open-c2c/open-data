@@ -1,0 +1,16 @@
+{
+  "$id": "oe7iz3vt1esq6nm3mf31dyi6",
+  "name": "AnthrOhio",
+  "slug": "anthrohio",
+  "popularKnown": [],
+  "officialLogo": "./logos/anthrohio.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://anthrohio.org",
+  "country": "USA",
+  "address": "Crowne Plaza Worthington, 6500 Doubletree Avenue, Columbus, Ohio 43229, USA",
+  "telephone": "+1 (614) 885-1885",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

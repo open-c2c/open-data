@@ -1,0 +1,16 @@
+{
+  "$id": "xhj0g8d6y7gkc8iwmagxb7rb",
+  "name": "Furway",
+  "slug": "furway",
+  "popularKnown": [],
+  "officialLogo": "./logos/furway.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furway.no",
+  "country": "NOR",
+  "address": "Stiftelsen Olsby, Kongspartvegen 739, 2337 Tangen, Norway",
+  "telephone": "+47 48 60 58 21",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "j12x72hd72lewkitirsztpyy",
+  "name": "PAWCon",
+  "slug": "pawcon",
+  "popularKnown": [],
+  "officialLogo": "./logos/pawcon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://pacanthro.org",
+  "country": "USA",
+  "address": "DoubleTree San Jose, 2050 Gateway Place, San Jose, CA 95110, USA",
+  "telephone": "+1 (408) 453-4000",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

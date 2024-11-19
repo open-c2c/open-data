@@ -1,0 +1,16 @@
+{
+  "$id": "cm212ar47dplhvw184ncdxm5",
+  "name": "Furnavia",
+  "slug": "furnavia",
+  "popularKnown": [],
+  "officialLogo": "./logos/furnavia.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furnavia.org",
+  "country": "NOR",
+  "address": "Radisson Blu Caledonien Hotel, Vestre Strandgate 7, Kristiansand, Norway",
+  "telephone": null,
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

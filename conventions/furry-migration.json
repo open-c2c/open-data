@@ -1,0 +1,19 @@
+{
+  "$id": "m7insn94kgfrjerviyoozbz1",
+  "name": "Furry Migration",
+  "slug": "furry-migration",
+  "popularKnown": [],
+  "officialLogo": "./logos/furry-migration.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://furrymigration.org",
+  "country": "USA",
+  "address": "Hyatt Regency Minneapolis, 1300 Nicollet Mall, 55403, Minneapolis, MN, USA",
+  "telephone": "+1 (612) 370-1234",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

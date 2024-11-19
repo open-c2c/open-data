@@ -1,0 +1,16 @@
+{
+  "$id": "c2675i6asx73znjbtw0uymh6",
+  "name": "Fuzzweekend",
+  "slug": "fuzzweekend",
+  "popularKnown": [],
+  "officialLogo": "./logos/fuzzweekend.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://fuzzcon.be",
+  "country": "BEL",
+  "address": "Groepsaccommodatie Le Mont Saint Jacques, Saint-Jacques 19, 4980 Trois-Ponts, Belgium",
+  "telephone": "+32 496 64 83 33",
+  "minimumAge": 16,
+  "cadence": "Yearly",
+  "isActive": true
+}

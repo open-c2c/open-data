@@ -1,0 +1,16 @@
+{
+  "$id": "n883zc4jc0uk8r3feaam9jfi",
+  "name": "Austin Furry Burlesque",
+  "slug": "austin-furry-burlesque",
+  "popularKnown": [],
+  "officialLogo": "./logos/austin-furry-burlesque.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://www.furryburlesque.com",
+  "country": "USA",
+  "address": "Courtyard by Marriott Austin Pflugerville, 16100 Impact Way, Pflugerville, TX 78660, USA",
+  "telephone": "+1 (512) 220-2525",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

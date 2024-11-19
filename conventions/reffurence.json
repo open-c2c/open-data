@@ -1,0 +1,19 @@
+{
+  "$id": "l2ra5d04zhj515ys3axpztj0",
+  "name": "Reffurence",
+  "slug": "reffurence",
+  "popularKnown": [],
+  "officialLogo": "./logos/reffurence.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://www.reffurence.com",
+  "country": "NLD",
+  "address": "Room Mate Bruno, Wilhelminakade 52, Rotterdam, Netherlands",
+  "telephone": null,
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

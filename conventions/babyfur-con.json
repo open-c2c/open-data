@@ -1,0 +1,16 @@
+{
+  "$id": "mo1okrovb6gncquvxgtipni2",
+  "name": "Babyfur Con",
+  "slug": "babyfur-con",
+  "popularKnown": [],
+  "officialLogo": "./logos/babyfur-con.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://babyfurcon.com",
+  "country": "USA",
+  "address": "(Undisclosed Venue), Santa Cruz, CA, 95060, USA",
+  "telephone": "",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "tqxo8i4w2687x96c6o6ainf8",
+  "name": "Furcationland",
+  "slug": "furcationland",
+  "popularKnown": [],
+  "officialLogo": "./logos/furcationland.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furcationland.com",
+  "country": "USA",
+  "address": "88 Spring St, Portland, ME 04101, USA",
+  "telephone": "+1 207 775 2311",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

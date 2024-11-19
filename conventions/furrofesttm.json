@@ -1,0 +1,16 @@
+{
+  "$id": "nhgxuswr9vmpbsulzz4bt1it",
+  "name": "FurroFest™",
+  "slug": "furrofesttm",
+  "popularKnown": [],
+  "officialLogo": "./logos/furrofesttm.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://www.facebook.com/furrofest/",
+  "country": "MEX",
+  "address": "Parque Nacional Viveros de Coyoacan SEMARNAT, Coyoacan, 04110 Ciudad de Mexico, CDMX, Mexico",
+  "telephone": "+52 55 25 64 20 64",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

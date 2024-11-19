@@ -1,0 +1,16 @@
+{
+  "$id": "pf191h6fca20vasezgo0s57r",
+  "name": "Furry Night",
+  "slug": "furry-night",
+  "popularKnown": [],
+  "officialLogo": "./logos/furry-night.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furrynight.com",
+  "country": "ARG",
+  "address": "Teatro Payró, San Martín 766, CABA, Buenos Aires, Argentina",
+  "telephone": "+54 11 4312-5922",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

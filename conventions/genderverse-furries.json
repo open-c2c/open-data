@@ -1,0 +1,16 @@
+{
+  "$id": "eho9bmophiz69scbubrgdcm8",
+  "name": "Genderverse Furries",
+  "slug": "genderverse-furries",
+  "popularKnown": [],
+  "officialLogo": "./logos/genderverse-furries.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://genderversefurries.com",
+  "country": "CAN",
+  "address": "KindSpace, 400 Cooper St, Ottawa, ON K2P 2N1, Canada",
+  "telephone": "+1 (613) 563-4818",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

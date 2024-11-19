@@ -1,0 +1,16 @@
+{
+  "$id": "uwbe5j6t0s9qygvw5hz5fnwg",
+  "name": "Once Upon a Fur Con",
+  "slug": "once-upon-a-fur-con",
+  "popularKnown": [],
+  "officialLogo": "./logos/once-upon-a-fur-con.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://www.oufc.cn",
+  "country": "CHN",
+  "address": "Yuexiu International Convention Center, Yuexiu District, Guangzhou, Guangdong Province, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

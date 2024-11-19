@@ -1,0 +1,19 @@
+{
+  "$id": "f4xoywdpa9fl634b8qbtp82g",
+  "name": "FurSquare",
+  "slug": "fursquare",
+  "popularKnown": [],
+  "officialLogo": "./logos/fursquare.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://anthro.ltd/fsq",
+  "country": "THA",
+  "address": "E88 Bangkok, 1599 Sukhumvit Rd, พระโขนงเหนือ Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+  "telephone": "+66 86 566 2929",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "cevcgxwxkf24v2sqk4qrxkcc",
+  "name": "FuzzyOasisParty Lite",
+  "slug": "fuzzyoasisparty-lite",
+  "popularKnown": [],
+  "officialLogo": "./logos/fuzzyoasisparty-lite.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://twitter.com/fuzzyoasisparty",
+  "country": "CHN",
+  "address": "Tu'Nan Life Aesthetics Hotel, 1 Dong Sheng Gong Ye Qu, Panyu District, Guangzhou, Guangdong Province, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

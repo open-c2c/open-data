@@ -1,0 +1,19 @@
+{
+  "$id": "l1b3ncqbq4exm0h8oez9zcp7",
+  "name": "Fuve",
+  "slug": "fuve",
+  "popularKnown": [],
+  "officialLogo": "./logos/fuve.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://www.facebook.com/FUVE.vietnam",
+  "country": "VNM",
+  "address": "La 1988 75-75, Tan Thang, p. Son Ky, Tan phu, Ho Chi Minh City, Viet Nam",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

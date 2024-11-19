@@ -1,0 +1,16 @@
+{
+  "$id": "ctbsjbdobgi70a6v1yr6angs",
+  "name": "Fur the 'More",
+  "slug": "fur-the-more",
+  "popularKnown": [],
+  "officialLogo": "./logos/fur-the-more.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furthemore.org",
+  "country": "USA",
+  "address": "Hyatt Regency Crystal City, 2799 Richmond Hwy, Arlington, VA 22202, USA",
+  "telephone": "+1 (703) 418-1234",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

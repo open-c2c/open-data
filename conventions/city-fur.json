@@ -1,0 +1,16 @@
+{
+  "$id": "k4g8o8in2myoinnegpqy30ia",
+  "name": "City Fur",
+  "slug": "city-fur",
+  "popularKnown": [],
+  "officialLogo": "./logos/city-fur.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://twitter.com/CityFurMX",
+  "country": "MEX",
+  "address": "Holiday Inn Mexico Coyoacan, Calz. de Tlalpan 1507, Benito Juárez, 03300 Ciudad de México, CDMX, Mexico",
+  "telephone": "+52 55 2595 2595",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

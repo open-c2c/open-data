@@ -1,0 +1,16 @@
+{
+  "$id": "uzpuxrv46pvidokl7193zhjn",
+  "name": "SeaFur",
+  "slug": "seafur",
+  "popularKnown": [],
+  "officialLogo": "./logos/seafur.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://www.seafur.cn",
+  "country": "CHN",
+  "address": "Dachuan Hotel, 4988 Hangnan Hwy, Fengxian District, Shanghai, China",
+  "telephone": null,
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}

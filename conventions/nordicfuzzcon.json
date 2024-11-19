@@ -1,0 +1,16 @@
+{
+  "$id": "wbqkkinf3lhy0sqv20bc2xc7",
+  "name": "NordicFuzzCon",
+  "slug": "nordicfuzzcon",
+  "popularKnown": [],
+  "officialLogo": "./logos/nordicfuzzcon.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://nordicfuzzcon.org",
+  "country": "SWE",
+  "address": "Clarion Hotel Malmö Live, Dag Hammarskjölds Torg 2, 211 18 Malmö, Sweden",
+  "telephone": "+46 040 20 75 00",
+  "minimumAge": 18,
+  "cadence": "Yearly",
+  "isActive": true
+}

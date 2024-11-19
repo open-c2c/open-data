@@ -1,0 +1,19 @@
+{
+  "$id": "zu9d335i7ghy18yb8u3c2mz0",
+  "name": "Las Vegas Fur Con",
+  "slug": "las-vegas-fur-con",
+  "popularKnown": [],
+  "officialLogo": "./logos/las-vegas-fur-con.png",
+  "coordinates": {
+    "lat": -74.69448824376582,
+    "lng": 164.11305928819493
+  },
+  "moreInformation": [],
+  "website": "https://lasvegasfurcon.org",
+  "country": "USA",
+  "address": "Alexis Park Resort, 375 E Harmon Ave, Las Vegas, NV, USA",
+  "telephone": "",
+  "minimumAge": 21,
+  "cadence": "Yearly",
+  "isActive": true
+}

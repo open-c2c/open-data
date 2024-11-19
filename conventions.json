@@ -1,0 +1,1183 @@
+[
+  {
+    "$id": "gfaf60det5p7pucj99dcqymw",
+    "$ref": "./conventions/awoostria.json",
+    "name": "Awoostria",
+    "country": "AUT"
+  },
+  {
+    "$id": "fq7an43lj8lkg77iykokp79t",
+    "$ref": "./conventions/a-furcon.json",
+    "name": "A-FurCon (御绒聚)",
+    "country": "CHN"
+  },
+  {
+    "$id": "mb71gcwnnvabg2n0mwl9tdm8",
+    "$ref": "./conventions/alamo-city-furry-invasion.json",
+    "name": "Alamo City Furry Invasion",
+    "country": "USA"
+  },
+  {
+    "$id": "dbsom2u10s84qaw4df8d1r57",
+    "$ref": "./conventions/anhui-furry-gathering.json",
+    "name": "AnHui Furry Gathering (徽兽汇)",
+    "country": "CHN"
+  },
+  {
+    "$id": "ue30ejzo0dxnj5z9twfkk9ck",
+    "$ref": "./conventions/anthro-crossroads-east.json",
+    "name": "Anthro Crossroads East",
+    "country": "USA"
+  },
+  {
+    "$id": "vrtyz19ncqtdaxsgfbt7y3dl",
+    "$ref": "./conventions/anthro-new-england.json",
+    "name": "Anthro New England",
+    "country": "USA"
+  },
+  {
+    "$id": "kaijys19lkiockhg99iq2vqs",
+    "$ref": "./conventions/anthro-northwest.json",
+    "name": "Anthro Northwest",
+    "country": "USA"
+  },
+  {
+    "$id": "badh9z6np4ty2bwnfxinpisa",
+    "$ref": "./conventions/anthropomme.json",
+    "name": "AnthroPomme",
+    "country": "FRA"
+  },
+  {
+    "$id": "xppgwuco4jbtfg65hf1d3sb5",
+    "$ref": "./conventions/anthro-southeast.json",
+    "name": "Anthro SouthEast",
+    "country": "USA"
+  },
+  {
+    "$id": "dy0g3s44lb60uvf6xdcpb1q9",
+    "$ref": "./conventions/anthro-weekend-utah.json",
+    "name": "Anthro Weekend Utah",
+    "country": "USA"
+  },
+  {
+    "$id": "fv1se86bmje3qo05i359r8bs",
+    "$ref": "./conventions/anthroexpo.json",
+    "name": "AnthroExpo",
+    "country": "USA"
+  },
+  {
+    "$id": "oe7iz3vt1esq6nm3mf31dyi6",
+    "$ref": "./conventions/anthrohio.json",
+    "name": "AnthrOhio",
+    "country": "USA"
+  },
+  {
+    "$id": "lztoa6plp87arpolurdmwd8x",
+    "$ref": "./conventions/anthrocon.json",
+    "name": "Anthrocon",
+    "country": "USA"
+  },
+  {
+    "$id": "lynjqf39y6qegclbzr99clj8",
+    "$ref": "./conventions/aquatifur.json",
+    "name": "AquatiFur",
+    "country": "USA"
+  },
+  {
+    "$id": "eka03joszfput00b3go3rvnq",
+    "$ref": "./conventions/argentina-furfiesta.json",
+    "name": "Argentina FurFiesta",
+    "country": "ARG"
+  },
+  {
+    "$id": "pp78qte6dfckec4eg9gtml79",
+    "$ref": "./conventions/arizona-fur-con.json",
+    "name": "Arizona Fur Con",
+    "country": "USA"
+  },
+  {
+    "$id": "s95lubjv34u3n7nyr5xg1wqb",
+    "$ref": "./conventions/aurawra.json",
+    "name": "Aurawra",
+    "country": "AUS"
+  },
+  {
+    "$id": "n883zc4jc0uk8r3feaam9jfi",
+    "$ref": "./conventions/austin-furry-burlesque.json",
+    "name": "Austin Furry Burlesque",
+    "country": "USA"
+  },
+  {
+    "$id": "mo1okrovb6gncquvxgtipni2",
+    "$ref": "./conventions/babyfur-con.json",
+    "name": "Babyfur Con",
+    "country": "USA"
+  },
+  {
+    "$id": "gr6083nf40wvfmnrn46fld82",
+    "$ref": "./conventions/big-sky-camp-paw.json",
+    "name": "Big Sky Camp Paw",
+    "country": "USA"
+  },
+  {
+    "$id": "a9tcxfjar2o185rg4460lm4s",
+    "$ref": "./conventions/biggest-little-fur-con.json",
+    "name": "Biggest Little Fur Con",
+    "country": "USA"
+  },
+  {
+    "$id": "miwsajzko0vsh0i4fxle7rpp",
+    "$ref": "./conventions/bjc-all-souls-gathering-at-beijing.json",
+    "name": "B.J.C. All Souls Gathering at Beijing (万灵汇京)",
+    "country": "CHN"
+  },
+  {
+    "$id": "cv0fn5do5wv3e6a8tor73qka",
+    "$ref": "./conventions/blue-ridge-furfare.json",
+    "name": "Blue Ridge Furfare",
+    "country": "USA"
+  },
+  {
+    "$id": "f87uawuozl2ye4y4j3xvpyh8",
+    "$ref": "./conventions/brasil-furfest.json",
+    "name": "Brasil FurFest",
+    "country": "BRA"
+  },
+  {
+    "$id": "t2jrxftne44mibq39ku9oy8v",
+    "$ref": "./conventions/cabincon-uk.json",
+    "name": "Cabincon (UK)",
+    "country": "GBR"
+  },
+  {
+    "$id": "b5wc7cvb34kiryllrbxg105v",
+    "$ref": "./conventions/campfire-tails.json",
+    "name": "Campfire Tails",
+    "country": "USA"
+  },
+  {
+    "$id": "eeq89nbykvqw8s7e661t8hpd",
+    "$ref": "./conventions/camping-paws.json",
+    "name": "Camping Paws",
+    "country": "MEX"
+  },
+  {
+    "$id": "gvohkc4wmhh96fc5m2bi0lsk",
+    "$ref": "./conventions/canfurence.json",
+    "name": "CanFURence",
+    "country": "CAN"
+  },
+  {
+    "$id": "zu9zvknmtfval29fw9fon2i5",
+    "$ref": "./conventions/castlecon.json",
+    "name": "CastleCon",
+    "country": "DEU"
+  },
+  {
+    "$id": "d1gkojxt0tnpkthld7r2ae4h",
+    "$ref": "./conventions/cbrfur.json",
+    "name": "CBRFUR",
+    "country": "AUS"
+  },
+  {
+    "$id": "v9fui4giufgv2a34qhzqs1le",
+    "$ref": "./conventions/central-plains-fur-meet.json",
+    "name": "Central Plains Fur Meet",
+    "country": "USA"
+  },
+  {
+    "$id": "mv7jup4zx6xig13vh2gvq23e",
+    "$ref": "./conventions/cesfur.json",
+    "name": "ČeSFuR",
+    "country": "CZE"
+  },
+  {
+    "$id": "k4g8o8in2myoinnegpqy30ia",
+    "$ref": "./conventions/city-fur.json",
+    "name": "City Fur",
+    "country": "MEX"
+  },
+  {
+    "$id": "mr7ta6pz017sge245rti3hcx",
+    "$ref": "./conventions/confuror.json",
+    "name": "Confuror",
+    "country": "MEX"
+  },
+  {
+    "$id": "t6x7orzkb58845hiohgsoksu",
+    "$ref": "./conventions/confurtiva.json",
+    "name": "ConFurtiva",
+    "country": "MEX"
+  },
+  {
+    "$id": "nggtui49jkzgbwl7bh0522vf",
+    "$ref": "./conventions/confuzzled.json",
+    "name": "ConFuzzled",
+    "country": "GBR"
+  },
+  {
+    "$id": "rk4nudto2abkhxuv2p184das",
+    "$ref": "./conventions/denfur.json",
+    "name": "DenFur",
+    "country": "USA"
+  },
+  {
+    "$id": "h34welky34mdokg6unbidr9a",
+    "$ref": "./conventions/dutch-furcon.json",
+    "name": "Dutch FurCon",
+    "country": "NLD"
+  },
+  {
+    "$id": "uf695d92ohg1lmrqnzc0j5xq",
+    "$ref": "./conventions/east.json",
+    "name": "EAST",
+    "country": "DEU"
+  },
+  {
+    "$id": "lm3u9hrkqhd9jydgloic8o2j",
+    "$ref": "./conventions/edelweiss-furry-culture-convention.json",
+    "name": "Edelweiss Furry Culture Convention",
+    "country": "CHN"
+  },
+  {
+    "$id": "k9c8afd5t26ybwsg2z8a3i9r",
+    "$ref": "./conventions/munich-furdance-nye-2021.json",
+    "name": "Munich Furdance NYE 2021",
+    "country": "DEU"
+  },
+  {
+    "$id": "ohg35q99kevd8q8skltow5sg",
+    "$ref": "./conventions/eurofurence.json",
+    "name": "Eurofurence",
+    "country": "DEU"
+  },
+  {
+    "$id": "mgfhf5ly8rr1alyx3tbysllu",
+    "$ref": "./conventions/fangcon.json",
+    "name": "Fangcon",
+    "country": "USA"
+  },
+  {
+    "$id": "pfhts5thr2u6dm5sl2gzptmv",
+    "$ref": "./conventions/fauntastic.json",
+    "name": "Fauntastic",
+    "country": "FRA"
+  },
+  {
+    "$id": "vmjqzak3n56893fqkleygpzp",
+    "$ref": "./conventions/ferabowl.json",
+    "name": "FeraBowl",
+    "country": "BRA"
+  },
+  {
+    "$id": "cx7m2zur9ucyvk9nza44mhvl",
+    "$ref": "./conventions/camp-feral.json",
+    "name": "Camp Feral!",
+    "country": "CAN"
+  },
+  {
+    "$id": "hjhqgoz7c91zv6r78ep0xqh1",
+    "$ref": "./conventions/finfur-animus.json",
+    "name": "FinFur Animus",
+    "country": "FIN"
+  },
+  {
+    "$id": "rehs9ovdh63i2cfwxiqi9xay",
+    "$ref": "./conventions/fluufff.json",
+    "name": "Flüüfff",
+    "country": "BEL"
+  },
+  {
+    "$id": "avl9a63fxf5x9g8zfoo76u6r",
+    "$ref": "./conventions/fur-squared.json",
+    "name": "Fur Squared",
+    "country": "USA"
+  },
+  {
+    "$id": "dhnmn99bwdv0mvbsq2i4frxm",
+    "$ref": "./conventions/furcation.json",
+    "name": "Furcation",
+    "country": "GBR"
+  },
+  {
+    "$id": "tqxo8i4w2687x96c6o6ainf8",
+    "$ref": "./conventions/furcationland.json",
+    "name": "Furcationland",
+    "country": "USA"
+  },
+  {
+    "$id": "ts9h0td2zklyd4ukt6f79f42",
+    "$ref": "./conventions/furcombo.json",
+    "name": "FurCombo",
+    "country": "CHN"
+  },
+  {
+    "$id": "z0h98cc7i07so1r375zq5yfo",
+    "$ref": "./conventions/furconsin.json",
+    "name": "FURconsin",
+    "country": "USA"
+  },
+  {
+    "$id": "g0ppfh2vbxf22dczxb3aiqgb",
+    "$ref": "./conventions/furconz-camp.json",
+    "name": "FurcoNZ Camp",
+    "country": "NZL"
+  },
+  {
+    "$id": "p0k6st3849cwukt5weid3of1",
+    "$ref": "./conventions/furconz-hotel.json",
+    "name": "FurcoNZ Hotel",
+    "country": "NZL"
+  },
+  {
+    "$id": "osm0so4suht7tyu4ctv6q3ru",
+    "$ref": "./conventions/furboliche.json",
+    "name": "Furboliche",
+    "country": "BRA"
+  },
+  {
+    "$id": "iwxi2hdfvgd7hqgc46l0az5v",
+    "$ref": "./conventions/furcamp.json",
+    "name": "FurCamp",
+    "country": "BRA"
+  },
+  {
+    "$id": "llu6vt50dc2zb0q39vc4v28f",
+    "$ref": "./conventions/furcan.json",
+    "name": "FurCan",
+    "country": "MEX"
+  },
+  {
+    "$id": "nhgxuswr9vmpbsulzz4bt1it",
+    "$ref": "./conventions/furrofesttm.json",
+    "name": "FurroFest™",
+    "country": "MEX"
+  },
+  {
+    "$id": "ggxhonus68oxdnh1mz6s3cff",
+    "$ref": "./conventions/furrymosa.json",
+    "name": "Furrymosa",
+    "country": "TWN"
+  },
+  {
+    "$id": "y4er0rqnz0z758utgbaeuyil",
+    "$ref": "./conventions/furdu.json",
+    "name": "FurDU",
+    "country": "AUS"
+  },
+  {
+    "$id": "imr1i8qd8or58sxmivlqm2n0",
+    "$ref": "./conventions/fur-eh.json",
+    "name": "Fur-Eh!",
+    "country": "CAN"
+  },
+  {
+    "$id": "wbaq5yl3e84usnxxnjmhejgj",
+    "$ref": "./conventions/furizon.json",
+    "name": "Furizon",
+    "country": "ITA"
+  },
+  {
+    "$id": "jkvhmou3pseszhkl6eju6b93",
+    "$ref": "./conventions/furjam.json",
+    "name": "FurJAM",
+    "country": "AUS"
+  },
+  {
+    "$id": "l6q6othz33tb7wppa2p2d1ou",
+    "$ref": "./conventions/furlandia.json",
+    "name": "Furlandia",
+    "country": "USA"
+  },
+  {
+    "$id": "nhx4lr74ozg0q0uw45upu3du",
+    "$ref": "./conventions/furloween.json",
+    "name": "Furloween",
+    "country": "USA"
+  },
+  {
+    "$id": "r1n9xitg7h8vowj9u3h50bhw",
+    "$ref": "./conventions/furnal-equinox.json",
+    "name": "Furnal Equinox",
+    "country": "CAN"
+  },
+  {
+    "$id": "cm212ar47dplhvw184ncdxm5",
+    "$ref": "./conventions/furnavia.json",
+    "name": "Furnavia",
+    "country": "NOR"
+  },
+  {
+    "$id": "gl67l3h38b4e6p5p1hc00zdi",
+    "$ref": "./conventions/furpocalypse.json",
+    "name": "Furpocalypse",
+    "country": "USA"
+  },
+  {
+    "$id": "t2du02w7frgvrlvdbcgbodci",
+    "$ref": "./conventions/further-south.json",
+    "name": "Further South",
+    "country": "GBR"
+  },
+  {
+    "$id": "s9xu5i77iia4gt2kdtvzjf31",
+    "$ref": "./conventions/furrydelphia.json",
+    "name": "Furrydelphia",
+    "country": "USA"
+  },
+  {
+    "$id": "apkqfweofmhjaobzpdzltglw",
+    "$ref": "./conventions/furry-cruise.json",
+    "name": "Furry Cruise",
+    "country": "USA"
+  },
+  {
+    "$id": "wymjn0ilt11x1u0qkymowjtt",
+    "$ref": "./conventions/furry-fiesta.json",
+    "name": "Furry Fiesta",
+    "country": "USA"
+  },
+  {
+    "$id": "nlemmq46gws9pv8e18aj4kps",
+    "$ref": "./conventions/furryland.json",
+    "name": "Furryland",
+    "country": "CHN"
+  },
+  {
+    "$id": "m7insn94kgfrjerviyoozbz1",
+    "$ref": "./conventions/furry-migration.json",
+    "name": "Furry Migration",
+    "country": "USA"
+  },
+  {
+    "$id": "pf191h6fca20vasezgo0s57r",
+    "$ref": "./conventions/furry-night.json",
+    "name": "Furry Night",
+    "country": "ARG"
+  },
+  {
+    "$id": "u6eit1cxtlh8pk61vl5kyht5",
+    "$ref": "./conventions/furry-retreat.json",
+    "name": "Furry Retreat",
+    "country": "USA"
+  },
+  {
+    "$id": "sv88qxoepjiwfltp47v0zrvj",
+    "$ref": "./conventions/furry-ski-weekend.json",
+    "name": "Furry Ski Weekend",
+    "country": "USA"
+  },
+  {
+    "$id": "fyjm569ju1bxs63d8cu70vo8",
+    "$ref": "./conventions/furry-siesta.json",
+    "name": "Furry Siesta",
+    "country": "USA"
+  },
+  {
+    "$id": "ylubfaa2tvk7u03rpn4s9iq9",
+    "$ref": "./conventions/furry-weekend-atlanta.json",
+    "name": "Furry Weekend Atlanta",
+    "country": "USA"
+  },
+  {
+    "$id": "jj869v5g5xtzaqqq131fuzyf",
+    "$ref": "./conventions/furry-weekend-holland.json",
+    "name": "Furry Weekend Holland",
+    "country": "NLD"
+  },
+  {
+    "$id": "nf30uwmamksvjycdghjoxzit",
+    "$ref": "./conventions/fursonacon.json",
+    "name": "FursonaCon",
+    "country": "USA"
+  },
+  {
+    "$id": "f4xoywdpa9fl634b8qbtp82g",
+    "$ref": "./conventions/fursquare.json",
+    "name": "FurSquare",
+    "country": "THA"
+  },
+  {
+    "$id": "fpwlyk94kq4biuptkjfkg2r9",
+    "$ref": "./conventions/furstival.json",
+    "name": "Furstival",
+    "country": "CHN"
+  },
+  {
+    "$id": "pfnrzbe0mc59ydf1j7w32hdy",
+    "$ref": "./conventions/furstock.json",
+    "name": "Furstock"
+  },
+  {
+    "$id": "k9pnhtg3i0wm5pmr00jxdw19",
+    "$ref": "./conventions/furtastic.json",
+    "name": "Furtastic",
+    "country": "DNK"
+  },
+  {
+    "$id": "byhij39lpb3swcv4vx5v41zv",
+    "$ref": "./conventions/further-confusion.json",
+    "name": "Further Confusion",
+    "country": "USA"
+  },
+  {
+    "$id": "kgjqhf4harvj67qotn1q3h2m",
+    "$ref": "./conventions/furthest-north.json",
+    "name": "Furthest North",
+    "country": "CAN"
+  },
+  {
+    "$id": "suz8957sqothoaze0vuem5ay",
+    "$ref": "./conventions/furum.json",
+    "name": "FURUM",
+    "country": "MYS"
+  },
+  {
+    "$id": "nazhjenxpjsnf3lb277bym3k",
+    "$ref": "./conventions/furvana.json",
+    "name": "Furvana",
+    "country": "USA"
+  },
+  {
+    "$id": "w6mqobibsappxl9hl18yyo7j",
+    "$ref": "./conventions/furvester.json",
+    "name": "Furvester",
+    "country": "DEU"
+  },
+  {
+    "$id": "xhj0g8d6y7gkc8iwmagxb7rb",
+    "$ref": "./conventions/furway.json",
+    "name": "Furway",
+    "country": "NOR"
+  },
+  {
+    "$id": "d4ab2pd2eu4rdckcydftpgo5",
+    "$ref": "./conventions/fur-reality.json",
+    "name": "Fur Reality",
+    "country": "USA"
+  },
+  {
+    "$id": "o4p6c4nbaeoh05on7ciizg39",
+    "$ref": "./conventions/fur-out-west.json",
+    "name": "Fur Out West",
+    "country": "AUS"
+  },
+  {
+    "$id": "ctbsjbdobgi70a6v1yr6angs",
+    "$ref": "./conventions/fur-the-more.json",
+    "name": "Fur the 'More",
+    "country": "USA"
+  },
+  {
+    "$id": "pi0gwjxz1reulm6e4vmhxgpw",
+    "$ref": "./conventions/furrnion.json",
+    "name": "Furrnion",
+    "country": "ESP"
+  },
+  {
+    "$id": "xpdm2b49sd3snvkmmn91ksmn",
+    "$ref": "./conventions/furryest.json",
+    "name": "FurryEST",
+    "country": "EST"
+  },
+  {
+    "$id": "xfueczfv7wwnz6utfg9awk6f",
+    "$ref": "./conventions/furrypinas.json",
+    "name": "FurryPinas",
+    "country": "PHL"
+  },
+  {
+    "$id": "f53kp9likh6yj8ubcep9whg6",
+    "$ref": "./conventions/furry-blacklight.json",
+    "name": "Furry BlackLight",
+    "country": "FRA"
+  },
+  {
+    "$id": "z8m147liz0ks6z7kzozj5li0",
+    "$ref": "./conventions/furry-summer-mexico.json",
+    "name": "Furry Summer Mexico",
+    "country": "MEX"
+  },
+  {
+    "$id": "r16a657042wvvq88vaoi7446",
+    "$ref": "./conventions/futerkon.json",
+    "name": "Futerkon",
+    "country": "POL"
+  },
+  {
+    "$id": "td24z9kc6whomne0345bh742",
+    "$ref": "./conventions/furry-summer-gathering.json",
+    "name": "Furry Summer Gathering",
+    "country": "CHN"
+  },
+  {
+    "$id": "c2675i6asx73znjbtw0uymh6",
+    "$ref": "./conventions/fuzzweekend.json",
+    "name": "Fuzzweekend",
+    "country": "BEL"
+  },
+  {
+    "$id": "whslrnhvk9a4njm4mjx53g1n",
+    "$ref": "./conventions/fuzzyoasisparty.json",
+    "name": "FuzzyOasisParty",
+    "country": "CHN"
+  },
+  {
+    "$id": "cevcgxwxkf24v2sqk4qrxkcc",
+    "$ref": "./conventions/fuzzyoasisparty-lite.json",
+    "name": "FuzzyOasisParty Lite",
+    "country": "CHN"
+  },
+  {
+    "$id": "ju15oyhqr82ubacia21d0qdp",
+    "$ref": "./conventions/galactic-camp.json",
+    "name": "Galactic Camp",
+    "country": "USA"
+  },
+  {
+    "$id": "rb50yoetrnhlh2yfvjww5jlw",
+    "$ref": "./conventions/garden-state-fur-the-weekend.json",
+    "name": "Garden State Fur The Weekend",
+    "country": "USA"
+  },
+  {
+    "$id": "ryq25ztw6sdrjiphkxycivbk",
+    "$ref": "./conventions/gateway-furmeet.json",
+    "name": "Gateway Furmeet",
+    "country": "USA"
+  },
+  {
+    "$id": "kzu4e29uqeo8amud9z6mjdvc",
+    "$ref": "./conventions/gdakon.json",
+    "name": "Gdakon",
+    "country": "POL"
+  },
+  {
+    "$id": "eho9bmophiz69scbubrgdcm8",
+    "$ref": "./conventions/genderverse-furries.json",
+    "name": "Genderverse Furries",
+    "country": "CAN"
+  },
+  {
+    "$id": "iy1fh6m845wj45cmijmxpsqj",
+    "$ref": "./conventions/golden-leaves-con.json",
+    "name": "Golden Leaves Con",
+    "country": "CHE"
+  },
+  {
+    "$id": "i2jixbe3o47hoxfxq9b8e6j5",
+    "$ref": "./conventions/golden-state-fur-con.json",
+    "name": "Golden State Fur Con",
+    "country": "USA"
+  },
+  {
+    "$id": "ss10wph5pgfa90wrivbgxefs",
+    "$ref": "./conventions/h-con.json",
+    "name": "H-Con",
+    "country": "DEU"
+  },
+  {
+    "$id": "kaeujxwonv6cklzt5h9gjs7c",
+    "$ref": "./conventions/hifurry.json",
+    "name": "HiFurry",
+    "country": "CHN"
+  },
+  {
+    "$id": "ynxpn3d9fv9vwi8j5bqo2pci",
+    "$ref": "./conventions/howloween.json",
+    "name": "Howloween",
+    "country": "CAN"
+  },
+  {
+    "$id": "r91bz1048zzgiuvg4099nfvk",
+    "$ref": "./conventions/howolidays.json",
+    "name": "HOwOlidays",
+    "country": "PHL"
+  },
+  {
+    "$id": "c9s0wo9bikn5pjq296n0q2rq",
+    "$ref": "./conventions/hunan-furry-meeting.json",
+    "name": "Hunan Furry Meeting (湘兽会)",
+    "country": "CHN"
+  },
+  {
+    "$id": "acl82v72v6mibu6orizwvrix",
+    "$ref": "./conventions/infurnity.json",
+    "name": "Infurnity",
+    "country": "TWN"
+  },
+  {
+    "$id": "z3bcglcx0uks80al905veb2x",
+    "$ref": "./conventions/indyfurcon.json",
+    "name": "IndyFurCon",
+    "country": "USA"
+  },
+  {
+    "$id": "cvbhuqfi1mfw4iib8z0fmmgh",
+    "$ref": "./conventions/ink-furry-house.json",
+    "name": "Ink Furry House (墨兽居)",
+    "country": "CHN"
+  },
+  {
+    "$id": "cffgzusr0obm8o5zk43hzaqf",
+    "$ref": "./conventions/itty-bitty-fur-con.json",
+    "name": "Itty Bitty Fur Con",
+    "country": "USA"
+  },
+  {
+    "$id": "ot21q3ctmzn4dr9on08brnhu",
+    "$ref": "./conventions/its-ruff-out.json",
+    "name": "It's Ruff Out",
+    "country": "USA"
+  },
+  {
+    "$id": "jssdn7ju0ijquv544zhi0zfa",
+    "$ref": "./conventions/japan-meeting-of-furries.json",
+    "name": "Japan Meeting of Furries",
+    "country": "JPN"
+  },
+  {
+    "$id": "koitkjckdlfib6ypby194ton",
+    "$ref": "./conventions/just-fur-the-weekend.json",
+    "name": "Just Fur The Weekend",
+    "country": "GBR"
+  },
+  {
+    "$id": "prlnijfwc4nq5sk6dtudg3zm",
+    "$ref": "./conventions/kcfur-howl.json",
+    "name": "KCFur Howl",
+    "country": "USA"
+  },
+  {
+    "$id": "oefywwrs2rroxj66yq8vo46o",
+    "$ref": "./conventions/kemocon.json",
+    "name": "Kemocon",
+    "country": "JPN"
+  },
+  {
+    "$id": "ygri6s09bf411exsqmxt9n2n",
+    "$ref": "./conventions/kemoket.json",
+    "name": "Kemoket",
+    "country": "JPN"
+  },
+  {
+    "$id": "ho28ws364nuada1zlqnhznop",
+    "$ref": "./conventions/kharcon.json",
+    "name": "Kharcon",
+    "country": "UKR"
+  },
+  {
+    "$id": "kl2i2oidioqbsgn92avl29un",
+    "$ref": "./conventions/kraz.json",
+    "name": "KRAZ",
+    "country": "CZE"
+  },
+  {
+    "$id": "axwjlnrzh9h4a52estgsvnkx",
+    "$ref": "./conventions/hashimoto-kemono-lounge.json",
+    "name": "Hashimoto Kemono Lounge",
+    "country": "JPN"
+  },
+  {
+    "$id": "ulsqbz2d44u3fqpkhtw5kcr4",
+    "$ref": "./conventions/kfl-furryonly.json",
+    "name": "KFL FurryOnly (滇兽聚)",
+    "country": "CHN"
+  },
+  {
+    "$id": "fslx08tlte032fbhvb1fpj64",
+    "$ref": "./conventions/kigukemo.json",
+    "name": "Kigukemo",
+    "country": "JPN"
+  },
+  {
+    "$id": "g4n07acgcec1ptzumsa7w24c",
+    "$ref": "./conventions/new-years-eve-con.json",
+    "name": "New Year's Eve Con",
+    "country": "USA"
+  },
+  {
+    "$id": "jtrwg1dt26o7ccoh7ihjeetf",
+    "$ref": "./conventions/lakeside-furs.json",
+    "name": "Lakeside Furs",
+    "country": "AUT"
+  },
+  {
+    "$id": "zu9d335i7ghy18yb8u3c2mz0",
+    "$ref": "./conventions/las-vegas-fur-con.json",
+    "name": "Las Vegas Fur Con",
+    "country": "USA"
+  },
+  {
+    "$id": "b3yn4d0wlj18b937qr0foczq",
+    "$ref": "./conventions/little-island-furcon.json",
+    "name": "Little Island Furcon",
+    "country": "SGP"
+  },
+  {
+    "$id": "tr4ddx0unbvc9aicflncctju",
+    "$ref": "./conventions/londonfurs-winter-party.json",
+    "name": "LondonFurs Winter Party",
+    "country": "GBR"
+  },
+  {
+    "$id": "jsflopkv0absxqc4fuf2t9iy",
+    "$ref": "./conventions/lvivfur.json",
+    "name": "LvivFur",
+    "country": "UKR"
+  },
+  {
+    "$id": "qoini8y1gsdvkphb5bjoffod",
+    "$ref": "./conventions/megaplex.json",
+    "name": "Megaplex",
+    "country": "USA"
+  },
+  {
+    "$id": "el8xb3jrea64td1alqw7hf7f",
+    "$ref": "./conventions/melbourne-fur-con.json",
+    "name": "Melbourne Fur Con",
+    "country": "AUS"
+  },
+  {
+    "$id": "y7410gdpjn1blowulxcrbns0",
+    "$ref": "./conventions/mephit-fur-meet.json",
+    "name": "Mephit Fur Meet",
+    "country": "USA"
+  },
+  {
+    "$id": "dkjm0l4vp4vc83o51uf53vbx",
+    "$ref": "./conventions/mephit-mini-con.json",
+    "name": "Mephit Mini Con",
+    "country": "DEU"
+  },
+  {
+    "$id": "etfr1xoqcs3jfqkupf5nageb",
+    "$ref": "./conventions/midwest-furfest.json",
+    "name": "Midwest FurFest",
+    "country": "USA"
+  },
+  {
+    "$id": "aiyflai7frjt8i7whhllyrfp",
+    "$ref": "./conventions/montana-anthro-ski-weekend.json",
+    "name": "Montana Anthro Ski Weekend",
+    "country": "USA"
+  },
+  {
+    "$id": "jydl2kgacemvxdlpyfkxp540",
+    "$ref": "./conventions/minicon.json",
+    "name": "MiniCon",
+    "country": "CZE"
+  },
+  {
+    "$id": "tpv01jt0s08y5xfjx8h243ui",
+    "$ref": "./conventions/minifurr.json",
+    "name": "Minifurr",
+    "country": "CZE"
+  },
+  {
+    "$id": "du3f1kpg4qbadl7yfv9ev26g",
+    "$ref": "./conventions/mnfurs-spring-picnic.json",
+    "name": "MNFurs Spring Picnic",
+    "country": "USA"
+  },
+  {
+    "$id": "krh8435ec91xvxsl2oyjwhql",
+    "$ref": "./conventions/morph-parade.json",
+    "name": "Morph Parade",
+    "country": "THA"
+  },
+  {
+    "$id": "kfa9hw3xvgl0i8rk297l0tn3",
+    "$ref": "./conventions/motor-city-furry-con.json",
+    "name": "Motor City Furry Con",
+    "country": "USA"
+  },
+  {
+    "$id": "uv98arao17a8bni3abktqr9r",
+    "$ref": "./conventions/new-years-furry-ball.json",
+    "name": "New Year's Furry Ball",
+    "country": "USA"
+  },
+  {
+    "$id": "kheztr7w61jtp1aveplswdjs",
+    "$ref": "./conventions/neonfur.json",
+    "name": "NeonFur",
+    "country": "AUS"
+  },
+  {
+    "$id": "wbqkkinf3lhy0sqv20bc2xc7",
+    "$ref": "./conventions/nordicfuzzcon.json",
+    "name": "NordicFuzzCon",
+    "country": "SWE"
+  },
+  {
+    "$id": "oc7bei3gkb0e9oh22r4v6egn",
+    "$ref": "./conventions/northwest-campcon.json",
+    "name": "NorthWest CampCon",
+    "country": "USA"
+  },
+  {
+    "$id": "uwbe5j6t0s9qygvw5hz5fnwg",
+    "$ref": "./conventions/once-upon-a-fur-con.json",
+    "name": "Once Upon a Fur Con",
+    "country": "CHN"
+  },
+  {
+    "$id": "hdiqtw2lk92xb7l4gh98d4bs",
+    "$ref": "./conventions/pawai.json",
+    "name": "PAWAI",
+    "country": "IDN"
+  },
+  {
+    "$id": "j12x72hd72lewkitirsztpyy",
+    "$ref": "./conventions/pawcon.json",
+    "name": "PAWCon",
+    "country": "USA"
+  },
+  {
+    "$id": "in3dwg4nt04v2v2xsroc0jxo",
+    "$ref": "./conventions/painted-desert-fur-con.json",
+    "name": "Painted Desert Fur Con",
+    "country": "USA"
+  },
+  {
+    "$id": "h6o1n5kcnalmkyutf83rrk5j",
+    "$ref": "./conventions/qian-furry-gathering.json",
+    "name": "Qian Furry Gathering",
+    "country": "CHN"
+  },
+  {
+    "$id": "nngba6y6g5ru7m91i7jq2ox0",
+    "$ref": "./conventions/reborn-zhengzhou-furry-fusion.json",
+    "name": "Reborn: Zhengzhou Furry Fusion (重生兽聚)",
+    "country": "CHN"
+  },
+  {
+    "$id": "rspjmdo1erbxo9vwr82crjsz",
+    "$ref": "./conventions/red-deer-mini-con.json",
+    "name": "Red Deer Mini Con",
+    "country": "CAN"
+  },
+  {
+    "$id": "l2ra5d04zhj515ys3axpztj0",
+    "$ref": "./conventions/reffurence.json",
+    "name": "Reffurence",
+    "country": "NLD"
+  },
+  {
+    "$id": "sx079sty3bhohte2sy61i4ew",
+    "$ref": "./conventions/rongshouyu.json",
+    "name": "Rongshouyu (绒兽域)",
+    "country": "CHN"
+  },
+  {
+    "$id": "cvfnk535xzy3dgry6gcslyh6",
+    "$ref": "./conventions/rusfurence.json",
+    "name": "Rusfurence",
+    "country": "RUS"
+  },
+  {
+    "$id": "t6wwwynjgg9kteivuu8p2l53",
+    "$ref": "./conventions/scotiacon.json",
+    "name": "Scotiacon",
+    "country": "GBR"
+  },
+  {
+    "$id": "uzpuxrv46pvidokl7193zhjn",
+    "$ref": "./conventions/seafur.json",
+    "name": "SeaFur",
+    "country": "CHN"
+  },
+  {
+    "$id": "y1fg1a7p9wtwwqhjvdy4mg5w",
+    "$ref": "./conventions/shouwu-party.json",
+    "name": "Shouwu Party (兽屋派对)",
+    "country": "CHN"
+  },
+  {
+    "$id": "z5a5jjitunytcurbrjsm0co0",
+    "$ref": "./conventions/sillycon.json",
+    "name": "SillyCon",
+    "country": "RUS"
+  },
+  {
+    "$id": "x13j0bw2elncy6dlhbkwuwp4",
+    "$ref": "./conventions/sin-city-murr-con.json",
+    "name": "Sin City Murr Con",
+    "country": "USA"
+  },
+  {
+    "$id": "kf38j9tf9iik74kazt9rra6e",
+    "$ref": "./conventions/super-furry-fusion.json",
+    "name": "Super Furry Fusion",
+    "country": "CHN"
+  },
+  {
+    "$id": "ki32wvfkbl5aqakys2oe2107",
+    "$ref": "./conventions/socal-furbq.json",
+    "name": "SoCal FurBQ",
+    "country": "USA"
+  },
+  {
+    "$id": "yw8dy3csh9nfxbbml26vm3wu",
+    "$ref": "./conventions/southern-paws.json",
+    "name": "Southern Paws",
+    "country": "NZL"
+  },
+  {
+    "$id": "njcy19gqwm4tbb5l8f9n0o9o",
+    "$ref": "./conventions/south-afrifur.json",
+    "name": "South Afrifur",
+    "country": "ZAF"
+  },
+  {
+    "$id": "f8v5c0qoty7eod0cva8o4vxe",
+    "$ref": "./conventions/south-and-north-fursuit-union.json",
+    "name": "South & North Fursuit Union",
+    "country": "CHN"
+  },
+  {
+    "$id": "gvg9laucv1pke6vkwm7hepis",
+    "$ref": "./conventions/star-furry-meeting.json",
+    "name": "Star Furry Meeting (星绒会)",
+    "country": "CHN"
+  },
+  {
+    "$id": "yviuaxf8jete1xnj7vz83sdx",
+    "$ref": "./conventions/spokanthro.json",
+    "name": "SpokAnthro",
+    "country": "USA"
+  },
+  {
+    "$id": "kdajm6pitmkv4c8aoagprab9",
+    "$ref": "./conventions/starfes.json",
+    "name": "StarFes (星缘节)",
+    "country": "CHN"
+  },
+  {
+    "$id": "v8aucqcm3cvfza87mwbwz7w2",
+    "$ref": "./conventions/tails-and-tornadoes.json",
+    "name": "Tails and Tornadoes",
+    "country": "USA"
+  },
+  {
+    "$id": "s8hxst2498crjzm0d64kfpr3",
+    "$ref": "./conventions/thaitails.json",
+    "name": "Thaitails",
+    "country": "THA"
+  },
+  {
+    "$id": "stzdovlm0xlfkmu4iueo42n3",
+    "$ref": "./conventions/the-chase-of-beasts.json",
+    "name": "The Chase of Beasts",
+    "country": "USA"
+  },
+  {
+    "$id": "udqt7c93lfxdc1tevkh7lchd",
+    "$ref": "./conventions/unifurse.json",
+    "name": "Unifurse",
+    "country": "CHN"
+  },
+  {
+    "$id": "q573e09juqevt9lir220cim0",
+    "$ref": "./conventions/vancoufur.json",
+    "name": "VancouFur",
+    "country": "CAN"
+  },
+  {
+    "$id": "gmfmha90336wd7zjjr6ph3w6",
+    "$ref": "./conventions/waldcon.json",
+    "name": "WaldCon",
+    "country": "DEU"
+  },
+  {
+    "$id": "igtv3xbpvvtgkt2kqab3vtyq",
+    "$ref": "./conventions/werecamp.json",
+    "name": "Werecamp",
+    "country": "USA"
+  },
+  {
+    "$id": "a635zkx0puoi3jl5eh7nt3g9",
+    "$ref": "./conventions/west-aussie-fur-frenzy.json",
+    "name": "West Aussie Fur Frenzy",
+    "country": "AUS"
+  },
+  {
+    "$id": "deivt2ydvmcept6binshe7gq",
+    "$ref": "./conventions/western-pa-furry-weekend.json",
+    "name": "Western PA Furry Weekend",
+    "country": "USA"
+  },
+  {
+    "$id": "v0gcgz5mkh3gx4xb4ldpubqr",
+    "$ref": "./conventions/white-furry-abyss.json",
+    "name": "White Furry Abyss (白兽渊)",
+    "country": "CHN"
+  },
+  {
+    "$id": "hcd3t67daqicjqfkeddwxv7h",
+    "$ref": "./conventions/wi-wilderness-campout.json",
+    "name": "WI Wilderness Campout",
+    "country": "USA"
+  },
+  {
+    "$id": "glev8b8lrcdfhjsuzxtecure",
+    "$ref": "./conventions/wild-nights.json",
+    "name": "Wild Nights",
+    "country": "USA"
+  },
+  {
+    "$id": "iq4b2wmmfak109gzqjeo4twh",
+    "$ref": "./conventions/wild-north.json",
+    "name": "Wild North",
+    "country": "GBR"
+  },
+  {
+    "$id": "rw99o6esbm342ot7asdiuda9",
+    "$ref": "./conventions/wild-prairie-fur-con.json",
+    "name": "Wild Prairie Fur Con",
+    "country": "CAN"
+  },
+  {
+    "$id": "wa7rqx1af7n6tfcsqtzxyntl",
+    "$ref": "./conventions/world-wild-fur-camp.json",
+    "name": "World Wild Fur Camp",
+    "country": "USA"
+  },
+  {
+    "$id": "lsxadpwnslry7ktc4jplch1m",
+    "$ref": "./conventions/wuff.json",
+    "name": "WUFF",
+    "country": "UKR"
+  },
+  {
+    "$id": "naj5l2leibovk2zehm321y2k",
+    "$ref": "./conventions/yun-island.json",
+    "name": "Yun Island",
+    "country": "CHN"
+  },
+  {
+    "$id": "vqa47o861xyxym1d109mt3xe",
+    "$ref": "./conventions/zillercon.json",
+    "name": "Zillercon",
+    "country": "AUT"
+  },
+  {
+    "$id": "prqtmvwnsb6207t9ewboww1f",
+    "$ref": "./conventions/zodiacon.json",
+    "name": "ZodiaCon",
+    "country": "CZE"
+  },
+  {
+    "$id": "l1b3ncqbq4exm0h8oez9zcp7",
+    "$ref": "./conventions/fuve.json",
+    "name": "Fuve",
+    "country": "VNM"
+  },
+  {
+    "$id": "uha01si6oki288aq2lewy781",
+    "$ref": "./conventions/eufuria.json",
+    "name": "Eufuria",
+    "country": "USA"
+  }
+]

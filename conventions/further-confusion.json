@@ -1,0 +1,16 @@
+{
+  "$id": "byhij39lpb3swcv4vx5v41zv",
+  "name": "Further Confusion",
+  "slug": "further-confusion",
+  "popularKnown": [],
+  "officialLogo": "./logos/further-confusion.png",
+  "coordinates": { "lat": -74.69448824376582, "lng": 164.11305928819493 },
+  "moreInformation": [],
+  "website": "https://furtherconfusion.org",
+  "country": "USA",
+  "address": "[San Jose McEnery Convention Center, 408 Almaden Boulevard, San Jose, CA 95113], USA",
+  "telephone": "+1 800-726-5673",
+  "minimumAge": null,
+  "cadence": "Yearly",
+  "isActive": true
+}
