@@ -498,11 +498,6 @@
     "country": "CHN"
   },
   {
-    "$id": "pfnrzbe0mc59ydf1j7w32hdy",
-    "$ref": "./conventions/furstock.json",
-    "name": "Furstock"
-  },
-  {
     "$id": "k9pnhtg3i0wm5pmr00jxdw19",
     "$ref": "./conventions/furtastic.json",
     "name": "Furtastic",
