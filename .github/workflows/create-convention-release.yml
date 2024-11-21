@@ -1,0 +1,45 @@
+name: Create Conventions Release
+
+on:
+  push:
+    tags:
+      - 'v*'  # Trigger only on version tags (e.g., v1.0.0)
+
+jobs:
+  create-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Get the previous release tag
+        id: get_previous_tag
+        run: |
+          git fetch --tags
+          echo "PREVIOUS_TAG=$(git describe --tags --abbrev=0 HEAD^)" >> $GITHUB_ENV
+
+      - name: List added/modified/deleted files in ./conventions
+        id: diff_files
+        run: |
+          git diff --name-status ${{ env.PREVIOUS_TAG }} HEAD -- ./conventions > changes.txt
+          echo "CHANGED_FILES=$(cat changes.txt)" >> $GITHUB_ENV
+
+      - name: Copy added/modified files
+        run: |
+          mkdir -p release
+          grep '^[AM]' changes.txt | awk '{print $2}' | xargs -I {} cp --parents {} release/
+
+      - name: Record deleted files
+        run: |
+          mkdir -p release
+          grep '^D' changes.txt | awk '{print $2}' > release/deleted.json
+
+      - name: Zip the release
+        run: zip -r conventions.zip release/
+
+      - name: Upload release artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: conventions-release-${{ github.ref_name }}
+          path: conventions.zip
